@@ -1,0 +1,3330 @@
+[CustomCards]
+	[
+		{
+			"name": "CW01 Wall Guard",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/3_CW01 Wall Guard.png"
+			}
+		},
+		{
+			"name": "CW02 Redtooth's Raider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Rat Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/4_CW02 Redtooth's Raider.png"
+			}
+		},
+		{
+			"name": "CW03 Hawk Squad",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/5_CW03 Hawk Squad.png"
+			}
+		},
+		{
+			"name": "CW06 Inspired Inventor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/8_CW06 Inspired Inventor.png"
+			}
+		},
+		{
+			"name": "CW05 Medical Drone",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/7_CW05 Medical Drone.png"
+			}
+		},
+		{
+			"name": "CW04 Wayward Crusader",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/6_CW04 Wayward Crusader.png"
+			}
+		},
+		{
+			"name": "CW07 Collector Robot",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Robot Scout",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/9_CW07 Collector Robot.png"
+			}
+		},
+		{
+			"name": "CW08 Gray Corsair",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Halfling Pirate",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/10_CW08 Gray Corsair.png"
+			}
+		},
+		{
+			"name": "CW09 Digital Planetar",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/11_CW09 Digital Planetar.png"
+			}
+		},
+		{
+			"name": "CW10 Felldales Voyager",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/12_CW10 Felldales Voyager.png"
+			}
+		},
+		{
+			"name": "CW11 Myrmidon Robot",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/13_CW11 Myrmidon Robot.png"
+			}
+		},
+		{
+			"name": "CW12 Attack of Opportunity",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/14_CW12 Attack of Opportunity.png"
+			}
+		},
+		{
+			"name": "CW13 Crucify the Unfaithful",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/15_CW13 Crucify the Unfaithful.png"
+			}
+		},
+		{
+			"name": "CW14 Tactical Rush",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/16_CW14 Tactical Rush.png"
+			}
+		},
+		{
+			"name": "CW15 Seized by Customs",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/17_CW15 Seized by Customs.png"
+			}
+		},
+		{
+			"name": "CU01 Blindheim",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/39_CU01 Blindheim.png"
+			}
+		},
+		{
+			"name": "CU02 Technic Hireling",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/40_CU02 Technic Hireling.png"
+			}
+		},
+		{
+			"name": "CU03 Lobotomite",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Human Zombie",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/41_CU03 Lobotomite.png"
+			}
+		},
+		{
+			"name": "CU04 Dark Tapestry Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/42_CU04 Dark Tapestry Seer.png"
+			}
+		},
+		{
+			"name": "CU05 Aballonian Probe",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Alien Robot Scout",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/43_CU05 Aballonian Probe.png"
+			}
+		},
+		{
+			"name": "CU06 Gammenore",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Snow Creature — Alien Crab",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/44_CU06 Gammenore.png"
+			}
+		},
+		{
+			"name": "CU07 Agent Dealer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/45_CU07 Agent Dealer.png"
+			}
+		},
+		{
+			"name": "CU08 Targotha",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Alien Fish",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/46_CU08 Targotha.png"
+			}
+		},
+		{
+			"name": "CU09 Mage Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/47_CU09 Mage Armor.png"
+			}
+		},
+		{
+			"name": "CU10 EMP Pistol",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/48_CU10 EMP Pistol.png"
+			}
+		},
+		{
+			"name": "CU11 Skill Jack",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/49_CU11 Skill Jack.png"
+			}
+		},
+		{
+			"name": "CU12 Thirst for Knowledge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/50_CU12 Thirst for Knowledge.png"
+			}
+		},
+		{
+			"name": "CU13 Tightening Walls",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/51_CU13 Tightening Walls.png"
+			}
+		},
+		{
+			"name": "CU14 Forewarned Redo",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/52_CU14 Forewarned Redo.png"
+			}
+		},
+		{
+			"name": "CU15 Report to the League",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/53_CU15 Report to the League.png"
+			}
+		},
+		{
+			"name": "CB01 Kasatha Skeleton",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Alien Skeleton",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/77_CB01 Kasatha Skeleton.png"
+			}
+		},
+		{
+			"name": "CB02 Darkland Skulker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightstalker",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/78_CB02 Darkland Skulker.png"
+			}
+		},
+		{
+			"name": "CB03 Apprentice Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/79_CB03 Apprentice Spirit.png"
+			}
+		},
+		{
+			"name": "CB04 Rust-Risen",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Zombie",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/80_CB04 Rust-Risen.png"
+			}
+		},
+		{
+			"name": "CB06 Chain Devil",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Devil",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/82_CB06 Chain Devil.png"
+			}
+		},
+		{
+			"name": "UB08 Seerath",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Artifact Creature — Android Assassin",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/107_UB08 Seerath.png"
+			}
+		},
+		{
+			"name": "CB05 Irradiated Dead",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/81_CB05 Irradiated Dead.png"
+			}
+		},
+		{
+			"name": "CB08 Corrupted Artificer",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/84_CB08 Corrupted Artificer.png"
+			}
+		},
+		{
+			"name": "CB09 Warsworn",
+			"rarity": "common",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/85_CB09 Warsworn.png"
+			}
+		},
+		{
+			"name": "CB10 Gas Bomb",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/86_CB10 Gas Bomb.png"
+			}
+		},
+		{
+			"name": "CB11 Hard-Light Forcefield",
+			"rarity": "common",
+			"mana_cost": "{1}{WB}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/219_CB11 Hard-Light Forcefield.png"
+			}
+		},
+		{
+			"name": "CB12 Rust for the Rust God",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/87_CB12 Rust for the Rust God.png"
+			}
+		},
+		{
+			"name": "CB13 Harvest Thought",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/88_CB13 Harvest Thought.png"
+			}
+		},
+		{
+			"name": "CB14 Disassemble",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/89_CB14 Disassemble.png"
+			}
+		},
+		{
+			"name": "CB15 Atom Beam",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/90_CB15 Atom Beam.png"
+			}
+		},
+		{
+			"name": "CR01 Fire Beetle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/114_CR01 Fire Beetle.png"
+			}
+		},
+		{
+			"name": "CR03 Rust Monster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/116_CR03 Rust Monster.png"
+			}
+		},
+		{
+			"name": "CR02 Ropefist Thug",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/115_CR02 Ropefist Thug.png"
+			}
+		},
+		{
+			"name": "CR04 Scrapwall Smiler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/117_CR04 Scrapwall Smiler.png"
+			}
+		},
+		{
+			"name": "CR05 Bloodbrush",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Blood",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/118_CR05 Bloodbrush.png"
+			}
+		},
+		{
+			"name": "CR06 Capacitor Ooze",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Ooze",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/119_CR06 Capacitor Ooze.png"
+			}
+		},
+		{
+			"name": "CR07 Mannequin Robot",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/120_CR07 Mannequin Robot.png"
+			}
+		},
+		{
+			"name": "CR08 North Border Patrol",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/121_CR08 North Border Patrol.png"
+			}
+		},
+		{
+			"name": "CR09 Ash Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/122_CR09 Ash Giant.png"
+			}
+		},
+		{
+			"name": "CR10 Scorching Ray",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/123_CR10 Scorching Ray.png"
+			}
+		},
+		{
+			"name": "CR11 Inordinate Rage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/124_CR11 Inordinate Rage.png"
+			}
+		},
+		{
+			"name": "RR07 Wild Wasteland",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/137_RR07 Wild Wasteland.png"
+			}
+		},
+		{
+			"name": "CR13 Major Malfunction",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/126_CR13 Major Malfunction.png"
+			}
+		},
+		{
+			"name": "CR14 Makeshift Explosive",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/127_CR14 Makeshift Explosive.png"
+			}
+		},
+		{
+			"name": "CR15 Trick Shot",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/128_CR15 Trick Shot.png"
+			}
+		},
+		{
+			"name": "CG05 Slime Mold",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/156_CG05 Slime Mold.png"
+			}
+		},
+		{
+			"name": "CG01 Vegepygmie",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/152_CG01 Vegepygmie.png"
+			}
+		},
+		{
+			"name": "CG03 Technophobe Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/154_CG03 Technophobe Scout.png"
+			}
+		},
+		{
+			"name": "CG04 Deformed Android",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Android Mutant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/155_CG04 Deformed Android.png"
+			}
+		},
+		{
+			"name": "CG02 Zhen Worm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Worm",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/153_CG02 Zhen Worm.png"
+			}
+		},
+		{
+			"name": "UG04 Mi-Go Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Artificer",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/178_UG04 Mi-Go Traveler.png"
+			}
+		},
+		{
+			"name": "CG07 Cyber Rebel",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Human Rebel",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/158_CG07 Cyber Rebel.png"
+			}
+		},
+		{
+			"name": "CG09 Varisian Troupe",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/160_CG09 Varisian Troupe.png"
+			}
+		},
+		{
+			"name": "CG08 Marax",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Alien Beast",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/159_CG08 Marax.png"
+			}
+		},
+		{
+			"name": "CG10 Quadhorn Triceratops",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/161_CG10 Quadhorn Triceratops.png"
+			}
+		},
+		{
+			"name": "UR12 Windmill Waltz Flurry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/149_UR12 Windmill Waltz Flurry.png"
+			}
+		},
+		{
+			"name": "CG12 Coin Shot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/163_CG12 Coin Shot.png"
+			}
+		},
+		{
+			"name": "CG13 Cybernetic Augmentation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/164_CG13 Cybernetic Augmentation.png"
+			}
+		},
+		{
+			"name": "CG14 Mutagenic Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/165_CG14 Mutagenic Growth.png"
+			}
+		},
+		{
+			"name": "CG15 Pump Fluid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/166_CG15 Pump Fluid.png"
+			}
+		},
+		{
+			"name": "UU01 Silver Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/63_UU01 Silver Raven.png"
+			}
+		},
+		{
+			"name": "UW02 Ingenious Smith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/26_UW02 Ingenious Smith.png"
+			}
+		},
+		{
+			"name": "RW03 Redtooth",
+			"rarity": "rare",
+			"mana_cost": "{2}{WB}",
+			"type": "Legendary Creature — Rat Rogue",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/226_RW03 Redtooth.png"
+			}
+		},
+		{
+			"name": "UW05 Robot Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Android Warrior",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/29_UW05 Robot Hunter.png"
+			}
+		},
+		{
+			"name": "UW03 Tax Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/27_UW03 Tax Collector.png"
+			}
+		},
+		{
+			"name": "UW06 Roaming Valkyrie",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/30_UW06 Roaming Valkyrie.png"
+			}
+		},
+		{
+			"name": "UW07 Device Salvager",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/31_UW07 Device Salvager.png"
+			}
+		},
+		{
+			"name": "UW08 Resistance Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Android Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/32_UW08 Resistance Captain.png"
+			}
+		},
+		{
+			"name": "UW10 Evaluator Robot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Angel Robot",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/34_UW10 Evaluator Robot.png"
+			}
+		},
+		{
+			"name": "UW09 Marionette Maestro",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Android Artificer",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/33_UW09 Marionette Maestro.png"
+			}
+		},
+		{
+			"name": "UW11 Fires of Creation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/35_UW11 Fires of Creation.png"
+			}
+		},
+		{
+			"name": "UW01 Parts Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Gnome Artificer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/25_UW01 Parts Scavenger.png"
+			}
+		},
+		{
+			"name": "UU02 Sahasho, Invisible Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/64_UU02 Sahasho, Invisible Stalker.png"
+			}
+		},
+		{
+			"name": "UU03 Brineborn Cutthroat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/65_UU03 Brineborn Cutthroat.png"
+			}
+		},
+		{
+			"name": "UU04 Technic Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/66_UU04 Technic Captain.png"
+			}
+		},
+		{
+			"name": "UU05 Chuul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Crab Horror",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/67_UU05 Chuul.png"
+			}
+		},
+		{
+			"name": "UU06 Silver Mount Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/68_UU06 Silver Mount Guardian.png"
+			}
+		},
+		{
+			"name": "UU07 Agent of Treachery",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/69_UU07 Agent of Treachery.png"
+			}
+		},
+		{
+			"name": "UU08 Palace of Fallen Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/70_UU08 Palace of Fallen Stars.png"
+			}
+		},
+		{
+			"name": "UU09 Fabricate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/71_UU09 Fabricate.png"
+			}
+		},
+		{
+			"name": "UU10 Rewind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/72_UU10 Rewind.png"
+			}
+		},
+		{
+			"name": "UU11 Assassin Gauntlet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/73_UU11 Assassin Gauntlet.png"
+			}
+		},
+		{
+			"name": "UB01 Kyton Auger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Eye Devil",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/100_UB01 Kyton Auger.png"
+			}
+		},
+		{
+			"name": "UB03 Marrow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Goblin Wizard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/102_UB03 Marrow.png"
+			}
+		},
+		{
+			"name": "UB07 Torturer Robot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/106_UB07 Torturer Robot.png"
+			}
+		},
+		{
+			"name": "UB04 Intellect Devourer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/103_UB04 Intellect Devourer.png"
+			}
+		},
+		{
+			"name": "UB14 Stargaze",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/113_UB14 Stargaze.png"
+			}
+		},
+		{
+			"name": "UB06 Pale Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/105_UB06 Pale Slinger.png"
+			}
+		},
+		{
+			"name": "UB05 Mutant Manticore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Manticore Mutant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/104_UB05 Mutant Manticore.png"
+			}
+		},
+		{
+			"name": "UM01 Neh-Thalggu",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/207_UM01 Neh-Thalggu.png"
+			}
+		},
+		{
+			"name": "UB09 Valley of the Brain Collectors",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/108_UB09 Valley of the Brain Collectors.png"
+			}
+		},
+		{
+			"name": "CB07 Offworld Wraith",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/83_CB07 Offworld Wraith.png"
+			}
+		},
+		{
+			"name": "UB11 Zombify",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/110_UB11 Zombify.png"
+			}
+		},
+		{
+			"name": "UR01 Boilborn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Ooze Blood",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/138_UR01 Boilborn.png"
+			}
+		},
+		{
+			"name": "UR02 Starfall Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/139_UR02 Starfall Rebel.png"
+			}
+		},
+		{
+			"name": "UG03 Fluid Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/177_UG03 Fluid Scavenger.png"
+			}
+		},
+		{
+			"name": "UR04 Black Horse Caravaneer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Orc Scout",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/141_UR04 Black Horse Caravaneer.png"
+			}
+		},
+		{
+			"name": "UM01 Cursed Xill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Horror Shaman",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/200_UM01 Cursed Xill.png"
+			}
+		},
+		{
+			"name": "UR07 Scrapmaster's Chariot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/144_UR07 Scrapmaster's Chariot.png"
+			}
+		},
+		{
+			"name": "UR06 Impassioned Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Tiefling Artificer",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/143_UR06 Impassioned Inventor.png"
+			}
+		},
+		{
+			"name": "UR08 Lords of Rust",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/145_UR08 Lords of Rust.png"
+			}
+		},
+		{
+			"name": "UR09 Abrade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/146_UR09 Abrade.png"
+			}
+		},
+		{
+			"name": "UR14 Laser Turret",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/151_UR14 Laser Turret.png"
+			}
+		},
+		{
+			"name": "UG01 Val Baine",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/175_UG01 Val Baine.png"
+			}
+		},
+		{
+			"name": "UG02 Steel Hawk Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/176_UG02 Steel Hawk Brawler.png"
+			}
+		},
+		{
+			"name": "UR03 Savage Technologist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Barbarian",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/140_UR03 Savage Technologist.png"
+			}
+		},
+		{
+			"name": "CG06 Ghelarn",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Alien Plant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/157_CG06 Ghelarn.png"
+			}
+		},
+		{
+			"name": "UG05 Slavedriver Ettin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/179_UG05 Slavedriver Ettin.png"
+			}
+		},
+		{
+			"name": "UG06 Mad Paeytr",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/180_UG06 Mad Paeytr.png"
+			}
+		},
+		{
+			"name": "UG07 Blighted Froghemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{2G}{2G}",
+			"type": "Creature — Frog Horror",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/181_UG07 Blighted Froghemoth.png"
+			}
+		},
+		{
+			"name": "UG08 Hellbroth's Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/182_UG08 Hellbroth's Beast.png"
+			}
+		},
+		{
+			"name": "UG09 Feranth",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/183_UG09 Feranth.png"
+			}
+		},
+		{
+			"name": "UG10 The Choking Tower",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/184_UG10 The Choking Tower.png"
+			}
+		},
+		{
+			"name": "UG13 Choking Smog",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{BG}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/228_UG13 Choking Smog.png"
+			}
+		},
+		{
+			"name": "RW01 Crusader's Memorial",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/20_RW01 Crusader's Memorial.png"
+			}
+		},
+		{
+			"name": "RW02 Sovereign Liaison",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/21_RW02 Sovereign Liaison.png"
+			}
+		},
+		{
+			"name": "UW04 Whiskifiss",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rat Ranger",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/28_UW04 Whiskifiss.png"
+			}
+		},
+		{
+			"name": "RW04 Khonnir Baine",
+			"rarity": "rare",
+			"mana_cost": "{2}{WU}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/227_RW04 Khonnir Baine.png"
+			}
+		},
+		{
+			"name": "RW06 Deatomizer",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact — Junk",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/23_RW06 Deatomizer.png"
+			}
+		},
+		{
+			"name": "RW05 Aldronard",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Spirit Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/22_RW05 Aldronard.png"
+			}
+		},
+		{
+			"name": "RW07 Starfall Invocation",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/24_RW07 Starfall Invocation.png"
+			}
+		},
+		{
+			"name": "RU01 Mystic Archaeologist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/56_RU01 Mystic Archaeologist.png"
+			}
+		},
+		{
+			"name": "RU02 Dinvaya Lanalei",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Elf Cleric",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/57_RU02 Dinvaya Lanalei.png"
+			}
+		},
+		{
+			"name": "RU05 Gray Goo",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/60_RU05 Gray Goo.png"
+			}
+		},
+		{
+			"name": "RU04 Zernebeth",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Snow Creature — Human Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/59_RU04 Zernebeth.png"
+			}
+		},
+		{
+			"name": "RU06 Patchwork Duplicator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Junk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/61_RU06 Patchwork Duplicator.png"
+			}
+		},
+		{
+			"name": "RU03 Gritforge Gadgeteer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Halfling Artificer",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/58_RU03 Gritforge Gadgeteer.png"
+			}
+		},
+		{
+			"name": "RU07 Unstoppable Plan",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/62_RU07 Unstoppable Plan.png"
+			}
+		},
+		{
+			"name": "RB04 Rhu-Chalik",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Alien Horror",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/96_RB04 Rhu-Chalik.png"
+			}
+		},
+		{
+			"name": "RB03 Meyanda",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Artifact Creature — Android Cleric",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/95_RB03 Meyanda.png"
+			}
+		},
+		{
+			"name": "RB01 Maukui",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment Creature — Horror",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/93_RB01 Maukui.png"
+			}
+		},
+		{
+			"name": "RB05 Hollow Winds",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/97_RB05 Hollow Winds.png"
+			}
+		},
+		{
+			"name": "RB06 Chthonian Nightmare",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/98_RB06 Chthonian Nightmare.png"
+			}
+		},
+		{
+			"name": "RB07 Heartless Conscription",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/99_RB07 Heartless Conscription.png"
+			}
+		},
+		{
+			"name": "RR05 Chainsaw",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/135_RR05 Chainsaw.png"
+			}
+		},
+		{
+			"name": "RR02 Sneep",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Kobold Shaman",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/132_RR02 Sneep.png"
+			}
+		},
+		{
+			"name": "RR03 Gritforge Salvager",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/133_RR03 Gritforge Salvager.png"
+			}
+		},
+		{
+			"name": "RR04 Kevoth-Kul, Black Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Human Barbarian Noble",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/134_RR04 Kevoth-Kul, Black Sovereign.png"
+			}
+		},
+		{
+			"name": "RR01 Infested Local",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/131_RR01 Infested Local.png"
+			}
+		},
+		{
+			"name": "RR06 Delayed Blast Fireball",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/136_RR06 Delayed Blast Fireball.png"
+			}
+		},
+		{
+			"name": "RG01 Auto-Tiller",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/169_RG01 Auto-Tiller.png"
+			}
+		},
+		{
+			"name": "RG02 Peluda",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dragon Porcupine",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/170_RG02 Peluda.png"
+			}
+		},
+		{
+			"name": "RG03 Kulgara",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{RG}",
+			"type": "Legendary Creature — Orc Barbarian",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/220_RG03 Kulgara.png"
+			}
+		},
+		{
+			"name": "RG04 Thorgothrel",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Ooze Scientist",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/171_RG04 Thorgothrel.png"
+			}
+		},
+		{
+			"name": "RG05 Blades of Aaramor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Giant Barbarian",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/172_RG05 Blades of Aaramor.png"
+			}
+		},
+		{
+			"name": "RG06 Heroic Intervention",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/173_RG06 Heroic Intervention.png"
+			}
+		},
+		{
+			"name": "RG07 Pod Copies",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/174_RG07 Pod Copies.png"
+			}
+		},
+		{
+			"name": "MM01 Unity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Artifact Creature — Alien Robot",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/188_MM01 Unity.png"
+			}
+		},
+		{
+			"name": "MW01 Longdreamer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/18_MW01 Longdreamer.png"
+			}
+		},
+		{
+			"name": "MU01 Core of Casandalee",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/54_MU01 Core of Casandalee.png"
+			}
+		},
+		{
+			"name": "MU02 Time Warp",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/55_MU02 Time Warp.png"
+			}
+		},
+		{
+			"name": "MB01 Dominion of the Black",
+			"rarity": "mythic",
+			"mana_cost": "{2}{BP}{BP}{BP}",
+			"type": "Legendary Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/91_MB01 Dominion of the Black.png"
+			}
+		},
+		{
+			"name": "MB02 Blessed Envisioner",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Devil Cleric",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/92_MB02 Blessed Envisioner.png"
+			}
+		},
+		{
+			"name": "MR01 Hellion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Artifact Creature — Alien Robot",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/129_MR01 Hellion.png"
+			}
+		},
+		{
+			"name": "MR02 Star of Extinction",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/130_MR02 Star of Extinction.png"
+			}
+		},
+		{
+			"name": "MW02 Ophelia",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Artifact Creature — Gargoyle Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/19_MW02 Ophelia.png"
+			}
+		},
+		{
+			"name": "MG02 Terraformer Robot",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/168_MG02 Terraformer Robot.png"
+			}
+		},
+		{
+			"name": "UM01 Back to the Drawing Board",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/199_UM01 Back to the Drawing Board.png"
+			}
+		},
+		{
+			"name": "UB02 Cerebric Fungus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Alien Fungus",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/101_UB02 Cerebric Fungus.png"
+			}
+		},
+		{
+			"name": "UR05 Rayaldach",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Gargoyle Mercenary",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/142_UR05 Rayaldach.png"
+			}
+		},
+		{
+			"name": "UM01 Helskarg, Scrapmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Troll Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/203_UM01 Helskarg, Scrapmaster.png"
+			}
+		},
+		{
+			"name": "UM01 Join the Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/205_UM01 Join the Dance.png"
+			}
+		},
+		{
+			"name": "UM01 Nalakai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Orc Cleric",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/206_UM01 Nalakai.png"
+			}
+		},
+		{
+			"name": "UM02 Nanite Probe",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/216_UM02 Nanite Probe.png"
+			}
+		},
+		{
+			"name": "UM01 Decaying Dropship",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/201_UM01 Decaying Dropship.png"
+			}
+		},
+		{
+			"name": "UM01 Gearsman Battleguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/202_UM01 Gearsman Battleguard.png"
+			}
+		},
+		{
+			"name": "UM01 Tsaalgrend",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{G}{U}",
+			"type": "Creature — Alien Plant Jellyfish",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/208_UM01 Tsaalgrend.png"
+			}
+		},
+		{
+			"name": "RM01 Kokod",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Dwarf Artificer Wizard",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/197_RM01 Kokod.png"
+			}
+		},
+		{
+			"name": "RM01 Furkas Xoud",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Spirit Wizard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/194_RM01 Furkas Xoud.png"
+			}
+		},
+		{
+			"name": "UM02 Garmen Ulreth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/213_UM02 Garmen Ulreth.png"
+			}
+		},
+		{
+			"name": "RM01 Zorm",
+			"rarity": "rare",
+			"mana_cost": "{BR}{R}{G}",
+			"type": "Legendary Creature — Orc Barbarian Bard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/225_RM01 Zorm.png"
+			}
+		},
+		{
+			"name": "RM01 Iadrin Redfang Ashworth",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/196_RM01 Iadrin Redfang Ashworth.png"
+			}
+		},
+		{
+			"name": "RM01 Ozmyn Zaidow",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{UB}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/224_RM01 Ozmyn Zaidow.png"
+			}
+		},
+		{
+			"name": "RM01 Grazz",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{RG}{G}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/222_RM01 Grazz.png"
+			}
+		},
+		{
+			"name": "RM01 Isuma",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{GW}{W}",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/223_RM01 Isuma.png"
+			}
+		},
+		{
+			"name": "RM01 Atan",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{RW}",
+			"type": "Legendary Artifact Creature — Android Ranger",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/221_RM01 Atan.png"
+			}
+		},
+		{
+			"name": "UM01 Ilarris Zeleshi",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Elf Rogue",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/204_UM01 Ilarris Zeleshi.png"
+			}
+		},
+		{
+			"name": "CA01 Observer Robot",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/229_CA01 Observer Robot.png"
+			}
+		},
+		{
+			"name": "CA02 Repair Drone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/230_CA02 Repair Drone.png"
+			}
+		},
+		{
+			"name": "CA03 Scrapyard Robot",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/231_CA03 Scrapyard Robot.png"
+			}
+		},
+		{
+			"name": "CA04 Planted Cylex",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/232_CA04 Planted Cylex.png"
+			}
+		},
+		{
+			"name": "CA05 Goo Tube",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/233_CA05 Goo Tube.png"
+			}
+		},
+		{
+			"name": "UA03 Junk Golem of Brigh",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/245_UA03 Junk Golem of Brigh.png"
+			}
+		},
+		{
+			"name": "UA01 Wall of Scrap",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/243_UA01 Wall of Scrap.png"
+			}
+		},
+		{
+			"name": "UA07 Jecht Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/249_UA07 Jecht Sword.png"
+			}
+		},
+		{
+			"name": "UA04 Juggernaut Robot",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Juggernaut Robot",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/246_UA04 Juggernaut Robot.png"
+			}
+		},
+		{
+			"name": "UA06 Memory Facet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/248_UA06 Memory Facet.png"
+			}
+		},
+		{
+			"name": "CL01 Land of Fallen Stars",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/254_CL01 Land of Fallen Stars.png"
+			}
+		},
+		{
+			"name": "UL02 Rust Mounds of Scrapwall",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Mountain Forest",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/258_UL02 Rust Mounds of Scrapwall.png"
+			}
+		},
+		{
+			"name": "UL05 Starfall, Sovereign's Reach",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Island Swamp",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/261_UL05 Starfall, Sovereign's Reach.png"
+			}
+		},
+		{
+			"name": "UL01 Black Hill of Torch",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Mountain Plains",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/257_UL01 Black Hill of Torch.png"
+			}
+		},
+		{
+			"name": "UL03 High Home of Iadenveigh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Forest Mountain",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/259_UL03 High Home of Iadenveigh.png"
+			}
+		},
+		{
+			"name": "UL04 Scar of the Spider",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Forest Island",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/260_UL04 Scar of the Spider.png"
+			}
+		},
+		{
+			"name": "UA11 Battle Wagon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/252_UA11 Battle Wagon.png"
+			}
+		},
+		{
+			"name": "UA12 Spent Silverdisk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/253_UA12 Spent Silverdisk.png"
+			}
+		},
+		{
+			"name": "CA07 Fabrication Module",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/235_CA07 Fabrication Module.png"
+			}
+		},
+		{
+			"name": "UA13 Path of War",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Instant — Lesson",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/2_UA13 Path of War.png"
+			}
+		},
+		{
+			"name": "RA01 Ion",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Advisor",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/237_RA01 Ion.png"
+			}
+		},
+		{
+			"name": "MG01 Metweska",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/167_MG01 Metweska.png"
+			}
+		},
+		{
+			"name": "RL01 Silver Mount",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Mountain Vehicle",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/255_RL01 Silver Mount.png"
+			}
+		},
+		{
+			"name": "RA03 Annihilator Robot",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/239_RA03 Annihilator Robot.png"
+			}
+		},
+		{
+			"name": "RA05 Mystic Forge",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/240_RA05 Mystic Forge.png"
+			}
+		},
+		{
+			"name": "RM02 Unite the Tribes",
+			"rarity": "rare",
+			"mana_cost": "{2W}{2U}{2B}{2R}{2G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/198_RM02 Unite the Tribes.png"
+			}
+		},
+		{
+			"name": "RA07 Machine God's Effigy",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/242_RA07 Machine God's Effigy.png"
+			}
+		},
+		{
+			"name": "RA06 Adaptive Omnitool",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/241_RA06 Adaptive Omnitool.png"
+			}
+		},
+		{
+			"name": "RA02 The Divinity Drive",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/238_RA02 The Divinity Drive.png"
+			}
+		},
+		{
+			"name": "MA01 Pulsepounder",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem Robot",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/236_MA01 Pulsepounder.png"
+			}
+		},
+		{
+			"name": "MM02 Ancient Vortex Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Creature — Elder Dragon",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/189_MM02 Ancient Vortex Dragon.png"
+			}
+		},
+		{
+			"name": "MM04 Divine Ascension",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/191_MM04 Divine Ascension.png"
+			}
+		},
+		{
+			"name": "MM03 Merge With All",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{G}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/190_MM03 Merge With All.png"
+			}
+		},
+		{
+			"name": "UW12 Trap the Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/36_UW12 Trap the Soul.png"
+			}
+		},
+		{
+			"name": "UW13 Rise Above",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/37_UW13 Rise Above.png"
+			}
+		},
+		{
+			"name": "UW14 Symbol of Abadar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/38_UW14 Symbol of Abadar.png"
+			}
+		},
+		{
+			"name": "UU14 Symbol of Brigh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/76_UU14 Symbol of Brigh.png"
+			}
+		},
+		{
+			"name": "UU13 Dream Leash",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/75_UU13 Dream Leash.png"
+			}
+		},
+		{
+			"name": "UU12 Reverse Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/74_UU12 Reverse Engineer.png"
+			}
+		},
+		{
+			"name": "UB12 Incremental Blight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/111_UB12 Incremental Blight.png"
+			}
+		},
+		{
+			"name": "UB13 Grim Recycler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/112_UB13 Grim Recycler.png"
+			}
+		},
+		{
+			"name": "UB10 Symbol of Zyphus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/109_UB10 Symbol of Zyphus.png"
+			}
+		},
+		{
+			"name": "UR10 Symbol of Gorum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/147_UR10 Symbol of Gorum.png"
+			}
+		},
+		{
+			"name": "UR13 Unstable Amulet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/150_UR13 Unstable Amulet.png"
+			}
+		},
+		{
+			"name": "UG12 Unnatural Restoration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/186_UG12 Unnatural Restoration.png"
+			}
+		},
+		{
+			"name": "UG14 Biogenic Upgrade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/187_UG14 Biogenic Upgrade.png"
+			}
+		},
+		{
+			"name": "UG11 Symbol of Erastil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/185_UG11 Symbol of Erastil.png"
+			}
+		},
+		{
+			"name": "CG11 Worn by Time",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/162_CG11 Worn by Time.png"
+			}
+		},
+		{
+			"name": "UM02 Assembly Robot",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{W}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/209_UM02 Assembly Robot.png"
+			}
+		},
+		{
+			"name": "UM02 Sanvil Trett",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/218_UM02 Sanvil Trett.png"
+			}
+		},
+		{
+			"name": "RM01 Ghartone",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/195_RM01 Ghartone.png"
+			}
+		},
+		{
+			"name": "UM02 Hull Breach",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/215_UM02 Hull Breach.png"
+			}
+		},
+		{
+			"name": "UM02 Erastil's Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight Ranger",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/211_UM02 Erastil's Faithful.png"
+			}
+		},
+		{
+			"name": "UM02 Hardened Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/214_UM02 Hardened Tactician.png"
+			}
+		},
+		{
+			"name": "RM01 Deacon Hope",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Illusion Rogue",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/193_RM01 Deacon Hope.png"
+			}
+		},
+		{
+			"name": "UM02 Fossil Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact Creature — Skeleton Golem",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/212_UM02 Fossil Golem.png"
+			}
+		},
+		{
+			"name": "UM02 Overrun Salvage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Junk",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/217_UM02 Overrun Salvage.png"
+			}
+		},
+		{
+			"name": "UM02 Aurumvorax",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/210_UM02 Aurumvorax.png"
+			}
+		},
+		{
+			"name": "CA06 Discarded Device",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Junk",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/234_CA06 Discarded Device.png"
+			}
+		},
+		{
+			"name": "UA02 Augmented Gearsman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/244_UA02 Augmented Gearsman.png"
+			}
+		},
+		{
+			"name": "UA08 Solar Transformer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/250_UA08 Solar Transformer.png"
+			}
+		},
+		{
+			"name": "UA05 Warden Robot",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/247_UA05 Warden Robot.png"
+			}
+		},
+		{
+			"name": "UA10 New Epoch Foundry",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/256_UA10 New Epoch Foundry.png"
+			}
+		},
+		{
+			"name": "ZT01 The Iron God",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Planeswalker — Unity",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/263_ZT01 The Iron God.png"
+			}
+		},
+		{
+			"name": "RB02 Hetuath, Kasatha Chief",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Alien Zombie",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/94_RB02 Hetuath, Kasatha Chief.png"
+			}
+		},
+		{
+			"name": "ZZZ Tech-Ruin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/17_ZZZ Tech-Ruin.png"
+			}
+		},
+		{
+			"name": "ZT02 The Iron Goddess",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/262_ZT02 The Iron Goddess.png"
+			}
+		},
+		{
+			"name": "ZT09 Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/8_ZT09 Plant.png"
+			}
+		},
+		{
+			"name": "ZT06 Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/11_ZT06 Food.png"
+			}
+		},
+		{
+			"name": "ZT08 Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/12_ZT08 Junk.png"
+			}
+		},
+		{
+			"name": "ZT13 Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/14_ZT13 Treasure.png"
+			}
+		},
+		{
+			"name": "ZT04 Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/10_ZT04 Construct.png"
+			}
+		},
+		{
+			"name": "ZT05 Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/1_ZT05 Copy.png"
+			}
+		},
+		{
+			"name": "ZT10 Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/13_ZT10 Servo.png"
+			}
+		},
+		{
+			"name": "ZT07 Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/4_ZT07 Horror.png"
+			}
+		},
+		{
+			"name": "ZT12 The Iron God",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/2_ZT12 The Iron God.png"
+			}
+		},
+		{
+			"name": "ZT11 Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/3_ZT11 Spirit.png"
+			}
+		},
+		{
+			"name": "ZT03 Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/9_ZT03 Clue.png"
+			}
+		},
+		{
+			"name": "ZT14 Lobotomite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/5_ZT14 Lobotomite.png"
+			}
+		},
+		{
+			"name": "UA09 Clockwork Collection",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/251_UA09 Clockwork Collection.png"
+			}
+		},
+		{
+			"name": "ZT15 Ogre",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ogre",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/7_ZT15 Ogre.png"
+			}
+		},
+		{
+			"name": "RA04 Cranial Bomb",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Kindred Instant — Robot Trap",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/1_RA04 Cranial Bomb.png"
+			}
+		},
+		{
+			"name": "ZT16 Desert",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land — Desert",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/16_ZT16 Desert.png"
+			}
+		},
+		{
+			"name": "ZT17 Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/6_ZT17 Dragon.png"
+			}
+		},
+		{
+			"name": "ZT18 Ooze",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Ooze",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/15_ZT18 Ooze.png"
+			}
+		},
+		{
+			"name": "UR11 X-Laser",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/148_UR11 X-Laser.png"
+			}
+		},
+		{
+			"name": "CR12 Demand Answers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/125_CR12 Demand Answers.png"
+			}
+		},
+		{
+			"name": "MM05 Master Biomancer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/IRN-files/img/192_MM05 Master Biomancer.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 RR07 Wild Wasteland
+	2 RW03 Redtooth
+	2 RW01 Crusader's Memorial
+	2 RW02 Sovereign Liaison
+	2 RW04 Khonnir Baine
+	2 RW06 Deatomizer
+	2 RW05 Aldronard
+	2 RW07 Starfall Invocation
+	2 RU01 Mystic Archaeologist
+	2 RU02 Dinvaya Lanalei
+	2 RU05 Gray Goo
+	2 RU04 Zernebeth
+	2 RU06 Patchwork Duplicator
+	2 RU03 Gritforge Gadgeteer
+	2 RU07 Unstoppable Plan
+	2 RB04 Rhu-Chalik
+	2 RB03 Meyanda
+	2 RB01 Maukui
+	2 RB05 Hollow Winds
+	2 RB06 Chthonian Nightmare
+	2 RB07 Heartless Conscription
+	2 RR05 Chainsaw
+	2 RR02 Sneep
+	2 RR03 Gritforge Salvager
+	2 RR04 Kevoth-Kul, Black Sovereign
+	2 RR01 Infested Local
+	2 RR06 Delayed Blast Fireball
+	2 RG01 Auto-Tiller
+	2 RG02 Peluda
+	2 RG03 Kulgara
+	2 RG04 Thorgothrel
+	2 RG05 Blades of Aaramor
+	2 RG06 Heroic Intervention
+	2 RG07 Pod Copies
+	1 MM01 Unity
+	1 MW01 Longdreamer
+	1 MU01 Core of Casandalee
+	1 MU02 Time Warp
+	1 MB01 Dominion of the Black
+	1 MB02 Blessed Envisioner
+	1 MR01 Hellion
+	1 MR02 Star of Extinction
+	1 MW02 Ophelia
+	1 MG02 Terraformer Robot
+	2 RM01 Kokod
+	2 RM01 Furkas Xoud
+	2 RM01 Zorm
+	2 RM01 Iadrin Redfang Ashworth
+	2 RM01 Ozmyn Zaidow
+	2 RM01 Grazz
+	2 RM01 Isuma
+	2 RM01 Atan
+	2 RA01 Ion
+	1 MG01 Metweska
+	2 RL01 Silver Mount
+	2 RA03 Annihilator Robot
+	2 RA05 Mystic Forge
+	2 RM02 Unite the Tribes
+	2 RA07 Machine God's Effigy
+	2 RA06 Adaptive Omnitool
+	2 RA02 The Divinity Drive
+	1 MA01 Pulsepounder
+	1 MM02 Ancient Vortex Dragon
+	1 MM04 Divine Ascension
+	1 MM03 Merge With All
+	2 RM01 Ghartone
+	2 RM01 Deacon Hope
+	2 RB02 Hetuath, Kasatha Chief
+	2 RA04 Cranial Bomb
+	1 MM05 Master Biomancer
+[uncommon(4)]
+	4 UB08 Seerath
+	4 UG04 Mi-Go Traveler
+	4 UR12 Windmill Waltz Flurry
+	4 UU01 Silver Raven
+	4 UW02 Ingenious Smith
+	4 UW05 Robot Hunter
+	4 UW03 Tax Collector
+	4 UW06 Roaming Valkyrie
+	4 UW07 Device Salvager
+	4 UW08 Resistance Captain
+	4 UW10 Evaluator Robot
+	4 UW09 Marionette Maestro
+	4 UW11 Fires of Creation
+	4 UW01 Parts Scavenger
+	4 UU02 Sahasho, Invisible Stalker
+	4 UU03 Brineborn Cutthroat
+	4 UU04 Technic Captain
+	4 UU05 Chuul
+	4 UU06 Silver Mount Guardian
+	4 UU07 Agent of Treachery
+	4 UU08 Palace of Fallen Stars
+	4 UU09 Fabricate
+	4 UU10 Rewind
+	4 UU11 Assassin Gauntlet
+	4 UB01 Kyton Auger
+	4 UB03 Marrow
+	4 UB07 Torturer Robot
+	4 UB04 Intellect Devourer
+	4 UB14 Stargaze
+	4 UB06 Pale Slinger
+	4 UB05 Mutant Manticore
+	4 UM01 Neh-Thalggu
+	4 UB09 Valley of the Brain Collectors
+	4 UB11 Zombify
+	4 UR01 Boilborn
+	4 UR02 Starfall Rebel
+	4 UG03 Fluid Scavenger
+	4 UR04 Black Horse Caravaneer
+	4 UM01 Cursed Xill
+	4 UR07 Scrapmaster's Chariot
+	4 UR06 Impassioned Inventor
+	4 UR08 Lords of Rust
+	4 UR09 Abrade
+	4 UR14 Laser Turret
+	4 UG01 Val Baine
+	4 UG02 Steel Hawk Brawler
+	4 UR03 Savage Technologist
+	4 UG05 Slavedriver Ettin
+	4 UG06 Mad Paeytr
+	4 UG07 Blighted Froghemoth
+	4 UG08 Hellbroth's Beast
+	4 UG09 Feranth
+	4 UG10 The Choking Tower
+	4 UG13 Choking Smog
+	4 UW04 Whiskifiss
+	4 UM01 Back to the Drawing Board
+	4 UB02 Cerebric Fungus
+	4 UR05 Rayaldach
+	4 UM01 Helskarg, Scrapmaster
+	4 UM01 Join the Dance
+	4 UM01 Nalakai
+	4 UM02 Nanite Probe
+	4 UM01 Decaying Dropship
+	4 UM01 Gearsman Battleguard
+	4 UM01 Tsaalgrend
+	4 UM02 Garmen Ulreth
+	4 UM01 Ilarris Zeleshi
+	4 UA03 Junk Golem of Brigh
+	4 UA01 Wall of Scrap
+	4 UA07 Jecht Sword
+	4 UA04 Juggernaut Robot
+	4 UA06 Memory Facet
+	4 UL02 Rust Mounds of Scrapwall
+	4 UL05 Starfall, Sovereign's Reach
+	4 UL01 Black Hill of Torch
+	4 UL03 High Home of Iadenveigh
+	4 UL04 Scar of the Spider
+	4 UA11 Battle Wagon
+	4 UA12 Spent Silverdisk
+	4 UA13 Path of War
+	4 UW12 Trap the Soul
+	4 UW13 Rise Above
+	4 UW14 Symbol of Abadar
+	4 UU14 Symbol of Brigh
+	4 UU13 Dream Leash
+	4 UU12 Reverse Engineer
+	4 UB12 Incremental Blight
+	4 UB13 Grim Recycler
+	4 UB10 Symbol of Zyphus
+	4 UR10 Symbol of Gorum
+	4 UR13 Unstable Amulet
+	4 UG12 Unnatural Restoration
+	4 UG14 Biogenic Upgrade
+	4 UG11 Symbol of Erastil
+	4 UM02 Assembly Robot
+	4 UM02 Sanvil Trett
+	4 UM02 Hull Breach
+	4 UM02 Erastil's Faithful
+	4 UM02 Hardened Tactician
+	4 UM02 Fossil Golem
+	4 UM02 Overrun Salvage
+	4 UM02 Aurumvorax
+	4 UA02 Augmented Gearsman
+	4 UA08 Solar Transformer
+	4 UA05 Warden Robot
+	4 UA10 New Epoch Foundry
+	4 UA09 Clockwork Collection
+	4 UR11 X-Laser
+[common(7)]
+	8 CW01 Wall Guard
+	8 CW02 Redtooth's Raider
+	8 CW03 Hawk Squad
+	8 CW06 Inspired Inventor
+	8 CW05 Medical Drone
+	8 CW04 Wayward Crusader
+	8 CW07 Collector Robot
+	8 CW08 Gray Corsair
+	8 CW09 Digital Planetar
+	8 CW10 Felldales Voyager
+	8 CW11 Myrmidon Robot
+	8 CW12 Attack of Opportunity
+	8 CW13 Crucify the Unfaithful
+	8 CW14 Tactical Rush
+	8 CW15 Seized by Customs
+	8 CU01 Blindheim
+	8 CU02 Technic Hireling
+	8 CU03 Lobotomite
+	8 CU04 Dark Tapestry Seer
+	8 CU05 Aballonian Probe
+	8 CU06 Gammenore
+	8 CU07 Agent Dealer
+	8 CU08 Targotha
+	8 CU09 Mage Armor
+	8 CU10 EMP Pistol
+	8 CU11 Skill Jack
+	8 CU12 Thirst for Knowledge
+	8 CU13 Tightening Walls
+	8 CU14 Forewarned Redo
+	8 CU15 Report to the League
+	8 CB01 Kasatha Skeleton
+	8 CB02 Darkland Skulker
+	8 CB03 Apprentice Spirit
+	8 CB04 Rust-Risen
+	8 CB06 Chain Devil
+	8 CB05 Irradiated Dead
+	8 CB08 Corrupted Artificer
+	8 CB09 Warsworn
+	8 CB10 Gas Bomb
+	8 CB11 Hard-Light Forcefield
+	8 CB12 Rust for the Rust God
+	8 CB13 Harvest Thought
+	8 CB14 Disassemble
+	8 CB15 Atom Beam
+	8 CR01 Fire Beetle
+	8 CR03 Rust Monster
+	8 CR02 Ropefist Thug
+	8 CR04 Scrapwall Smiler
+	8 CR05 Bloodbrush
+	8 CR06 Capacitor Ooze
+	8 CR07 Mannequin Robot
+	8 CR08 North Border Patrol
+	8 CR09 Ash Giant
+	8 CR10 Scorching Ray
+	8 CR11 Inordinate Rage
+	8 CR13 Major Malfunction
+	8 CR14 Makeshift Explosive
+	8 CR15 Trick Shot
+	8 CG05 Slime Mold
+	8 CG01 Vegepygmie
+	8 CG03 Technophobe Scout
+	8 CG04 Deformed Android
+	8 CG02 Zhen Worm
+	8 CG07 Cyber Rebel
+	8 CG09 Varisian Troupe
+	8 CG08 Marax
+	8 CG10 Quadhorn Triceratops
+	8 CG12 Coin Shot
+	8 CG13 Cybernetic Augmentation
+	8 CG14 Mutagenic Growth
+	8 CG15 Pump Fluid
+	8 CB07 Offworld Wraith
+	8 CG06 Ghelarn
+	8 CA01 Observer Robot
+	8 CA02 Repair Drone
+	8 CA03 Scrapyard Robot
+	8 CA04 Planted Cylex
+	8 CA05 Goo Tube
+	8 CL01 Land of Fallen Stars
+	8 CA07 Fabrication Module
+	8 CG11 Worn by Time
+	8 CA06 Discarded Device
+	8 CR12 Demand Answers
+[wildcard(2)]
+	6 CW01 Wall Guard
+	6 CW02 Redtooth's Raider
+	6 CW03 Hawk Squad
+	6 CW06 Inspired Inventor
+	6 CW05 Medical Drone
+	6 CW04 Wayward Crusader
+	6 CW07 Collector Robot
+	6 CW08 Gray Corsair
+	6 CW09 Digital Planetar
+	6 CW10 Felldales Voyager
+	6 CW11 Myrmidon Robot
+	6 CW12 Attack of Opportunity
+	6 CW13 Crucify the Unfaithful
+	6 CW14 Tactical Rush
+	6 CW15 Seized by Customs
+	6 CU01 Blindheim
+	6 CU02 Technic Hireling
+	6 CU03 Lobotomite
+	6 CU04 Dark Tapestry Seer
+	6 CU05 Aballonian Probe
+	6 CU06 Gammenore
+	6 CU07 Agent Dealer
+	6 CU08 Targotha
+	6 CU09 Mage Armor
+	6 CU10 EMP Pistol
+	6 CU11 Skill Jack
+	6 CU12 Thirst for Knowledge
+	6 CU13 Tightening Walls
+	6 CU14 Forewarned Redo
+	6 CU15 Report to the League
+	6 CB01 Kasatha Skeleton
+	6 CB02 Darkland Skulker
+	6 CB03 Apprentice Spirit
+	6 CB04 Rust-Risen
+	6 CB06 Chain Devil
+	15 UB08 Seerath
+	6 CB05 Irradiated Dead
+	6 CB08 Corrupted Artificer
+	6 CB09 Warsworn
+	6 CB10 Gas Bomb
+	6 CB11 Hard-Light Forcefield
+	6 CB12 Rust for the Rust God
+	6 CB13 Harvest Thought
+	6 CB14 Disassemble
+	6 CB15 Atom Beam
+	6 CR01 Fire Beetle
+	6 CR03 Rust Monster
+	6 CR02 Ropefist Thug
+	6 CR04 Scrapwall Smiler
+	6 CR05 Bloodbrush
+	6 CR06 Capacitor Ooze
+	6 CR07 Mannequin Robot
+	6 CR08 North Border Patrol
+	6 CR09 Ash Giant
+	6 CR10 Scorching Ray
+	6 CR11 Inordinate Rage
+	7 RR07 Wild Wasteland
+	6 CR13 Major Malfunction
+	6 CR14 Makeshift Explosive
+	6 CR15 Trick Shot
+	6 CG05 Slime Mold
+	6 CG01 Vegepygmie
+	6 CG03 Technophobe Scout
+	6 CG04 Deformed Android
+	6 CG02 Zhen Worm
+	15 UG04 Mi-Go Traveler
+	6 CG07 Cyber Rebel
+	6 CG09 Varisian Troupe
+	6 CG08 Marax
+	6 CG10 Quadhorn Triceratops
+	15 UR12 Windmill Waltz Flurry
+	6 CG12 Coin Shot
+	6 CG13 Cybernetic Augmentation
+	6 CG14 Mutagenic Growth
+	6 CG15 Pump Fluid
+	15 UU01 Silver Raven
+	15 UW02 Ingenious Smith
+	7 RW03 Redtooth
+	15 UW05 Robot Hunter
+	15 UW03 Tax Collector
+	15 UW06 Roaming Valkyrie
+	15 UW07 Device Salvager
+	15 UW08 Resistance Captain
+	15 UW10 Evaluator Robot
+	15 UW09 Marionette Maestro
+	15 UW11 Fires of Creation
+	15 UW01 Parts Scavenger
+	15 UU02 Sahasho, Invisible Stalker
+	15 UU03 Brineborn Cutthroat
+	15 UU04 Technic Captain
+	15 UU05 Chuul
+	15 UU06 Silver Mount Guardian
+	15 UU07 Agent of Treachery
+	15 UU08 Palace of Fallen Stars
+	15 UU09 Fabricate
+	15 UU10 Rewind
+	15 UU11 Assassin Gauntlet
+	15 UB01 Kyton Auger
+	15 UB03 Marrow
+	15 UB07 Torturer Robot
+	15 UB04 Intellect Devourer
+	15 UB14 Stargaze
+	15 UB06 Pale Slinger
+	15 UB05 Mutant Manticore
+	15 UM01 Neh-Thalggu
+	15 UB09 Valley of the Brain Collectors
+	6 CB07 Offworld Wraith
+	15 UB11 Zombify
+	15 UR01 Boilborn
+	15 UR02 Starfall Rebel
+	15 UG03 Fluid Scavenger
+	15 UR04 Black Horse Caravaneer
+	15 UM01 Cursed Xill
+	15 UR07 Scrapmaster's Chariot
+	15 UR06 Impassioned Inventor
+	15 UR08 Lords of Rust
+	15 UR09 Abrade
+	15 UR14 Laser Turret
+	15 UG01 Val Baine
+	15 UG02 Steel Hawk Brawler
+	15 UR03 Savage Technologist
+	6 CG06 Ghelarn
+	15 UG05 Slavedriver Ettin
+	15 UG06 Mad Paeytr
+	15 UG07 Blighted Froghemoth
+	15 UG08 Hellbroth's Beast
+	15 UG09 Feranth
+	15 UG10 The Choking Tower
+	15 UG13 Choking Smog
+	7 RW01 Crusader's Memorial
+	7 RW02 Sovereign Liaison
+	15 UW04 Whiskifiss
+	7 RW04 Khonnir Baine
+	7 RW06 Deatomizer
+	7 RW05 Aldronard
+	7 RW07 Starfall Invocation
+	7 RU01 Mystic Archaeologist
+	7 RU02 Dinvaya Lanalei
+	7 RU05 Gray Goo
+	7 RU04 Zernebeth
+	7 RU06 Patchwork Duplicator
+	7 RU03 Gritforge Gadgeteer
+	7 RU07 Unstoppable Plan
+	7 RB04 Rhu-Chalik
+	7 RB03 Meyanda
+	7 RB01 Maukui
+	7 RB05 Hollow Winds
+	7 RB06 Chthonian Nightmare
+	7 RB07 Heartless Conscription
+	7 RR05 Chainsaw
+	7 RR02 Sneep
+	7 RR03 Gritforge Salvager
+	7 RR04 Kevoth-Kul, Black Sovereign
+	7 RR01 Infested Local
+	7 RR06 Delayed Blast Fireball
+	7 RG01 Auto-Tiller
+	7 RG02 Peluda
+	7 RG03 Kulgara
+	7 RG04 Thorgothrel
+	7 RG05 Blades of Aaramor
+	7 RG06 Heroic Intervention
+	7 RG07 Pod Copies
+	4 MM01 Unity
+	4 MW01 Longdreamer
+	4 MU01 Core of Casandalee
+	4 MU02 Time Warp
+	4 MB01 Dominion of the Black
+	4 MB02 Blessed Envisioner
+	4 MR01 Hellion
+	4 MR02 Star of Extinction
+	4 MW02 Ophelia
+	4 MG02 Terraformer Robot
+	15 UM01 Back to the Drawing Board
+	15 UB02 Cerebric Fungus
+	15 UR05 Rayaldach
+	15 UM01 Helskarg, Scrapmaster
+	15 UM01 Join the Dance
+	15 UM01 Nalakai
+	15 UM02 Nanite Probe
+	15 UM01 Decaying Dropship
+	15 UM01 Gearsman Battleguard
+	15 UM01 Tsaalgrend
+	7 RM01 Kokod
+	7 RM01 Furkas Xoud
+	15 UM02 Garmen Ulreth
+	7 RM01 Zorm
+	7 RM01 Iadrin Redfang Ashworth
+	7 RM01 Ozmyn Zaidow
+	7 RM01 Grazz
+	7 RM01 Isuma
+	7 RM01 Atan
+	15 UM01 Ilarris Zeleshi
+	6 CA01 Observer Robot
+	6 CA02 Repair Drone
+	6 CA03 Scrapyard Robot
+	6 CA04 Planted Cylex
+	6 CA05 Goo Tube
+	15 UA03 Junk Golem of Brigh
+	15 UA01 Wall of Scrap
+	15 UA07 Jecht Sword
+	15 UA04 Juggernaut Robot
+	15 UA06 Memory Facet
+	6 CL01 Land of Fallen Stars
+	15 UL02 Rust Mounds of Scrapwall
+	15 UL05 Starfall, Sovereign's Reach
+	15 UL01 Black Hill of Torch
+	15 UL03 High Home of Iadenveigh
+	15 UL04 Scar of the Spider
+	15 UA11 Battle Wagon
+	15 UA12 Spent Silverdisk
+	6 CA07 Fabrication Module
+	15 UA13 Path of War
+	7 RA01 Ion
+	4 MG01 Metweska
+	7 RL01 Silver Mount
+	7 RA03 Annihilator Robot
+	7 RA05 Mystic Forge
+	7 RM02 Unite the Tribes
+	7 RA07 Machine God's Effigy
+	7 RA06 Adaptive Omnitool
+	7 RA02 The Divinity Drive
+	4 MA01 Pulsepounder
+	4 MM02 Ancient Vortex Dragon
+	4 MM04 Divine Ascension
+	4 MM03 Merge With All
+	15 UW12 Trap the Soul
+	15 UW13 Rise Above
+	15 UW14 Symbol of Abadar
+	15 UU14 Symbol of Brigh
+	15 UU13 Dream Leash
+	15 UU12 Reverse Engineer
+	15 UB12 Incremental Blight
+	15 UB13 Grim Recycler
+	15 UB10 Symbol of Zyphus
+	15 UR10 Symbol of Gorum
+	15 UR13 Unstable Amulet
+	15 UG12 Unnatural Restoration
+	15 UG14 Biogenic Upgrade
+	15 UG11 Symbol of Erastil
+	6 CG11 Worn by Time
+	15 UM02 Assembly Robot
+	15 UM02 Sanvil Trett
+	7 RM01 Ghartone
+	15 UM02 Hull Breach
+	15 UM02 Erastil's Faithful
+	15 UM02 Hardened Tactician
+	7 RM01 Deacon Hope
+	15 UM02 Fossil Golem
+	15 UM02 Overrun Salvage
+	15 UM02 Aurumvorax
+	6 CA06 Discarded Device
+	15 UA02 Augmented Gearsman
+	15 UA08 Solar Transformer
+	15 UA05 Warden Robot
+	15 UA10 New Epoch Foundry
+	7 RB02 Hetuath, Kasatha Chief
+	15 UA09 Clockwork Collection
+	7 RA04 Cranial Bomb
+	15 UR11 X-Laser
+	6 CR12 Demand Answers
+	4 MM05 Master Biomancer
