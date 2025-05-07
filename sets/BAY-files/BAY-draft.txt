@@ -1,0 +1,3262 @@
+[CustomCards]
+	[
+		{
+			"name": "CW01 Shuttle Pilot",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/2_CW01 Shuttle Pilot.png"
+			}
+		},
+		{
+			"name": "CW02 Stolen Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Citizen",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/3_CW02 Stolen Soul.png"
+			}
+		},
+		{
+			"name": "CW03 Institute Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/4_CW03 Institute Agent.png"
+			}
+		},
+		{
+			"name": "CW04 Disciple of Chroma",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai Monk",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/5_CW04 Disciple of Chroma.png"
+			}
+		},
+		{
+			"name": "CW05 Institute Auto-doc",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/6_CW05 Institute Auto-doc.png"
+			}
+		},
+		{
+			"name": "CW06 Inspired Sidekick",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Minion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/7_CW06 Inspired Sidekick.png"
+			}
+		},
+		{
+			"name": "CW07 Augmented Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/8_CW07 Augmented Sentry.png"
+			}
+		},
+		{
+			"name": "CW08 Repair Shop Assistant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/9_CW08 Repair Shop Assistant.png"
+			}
+		},
+		{
+			"name": "CW09 Aerial Scout Drone",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Drone Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/10_CW09 Aerial Scout Drone.png"
+			}
+		},
+		{
+			"name": "CW10 Distracting Crowd",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/11_CW10 Distracting Crowd.png"
+			}
+		},
+		{
+			"name": "CW11 Salaried Robotisist",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/12_CW11 Salaried Robotisist.png"
+			}
+		},
+		{
+			"name": "CW12 Hero in the Making",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/13_CW12 Hero in the Making.png"
+			}
+		},
+		{
+			"name": "CW13 Wanderer's Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/14_CW13 Wanderer's Intervention.png"
+			}
+		},
+		{
+			"name": "CW14 Intercessor's Arrest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/15_CW14 Intercessor's Arrest.png"
+			}
+		},
+		{
+			"name": "CW15 Villain Takedown",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/16_CW15 Villain Takedown.png"
+			}
+		},
+		{
+			"name": "CW16 Act of Heroism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/17_CW16 Act of Heroism.png"
+			}
+		},
+		{
+			"name": "CW17 Enlightening Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/18_CW17 Enlightening Blade.png"
+			}
+		},
+		{
+			"name": "CW18 Lead to Victory",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/19_CW18 Lead to Victory.png"
+			}
+		},
+		{
+			"name": "CW19 Decommission",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/20_CW19 Decommission.png"
+			}
+		},
+		{
+			"name": "CU01 Delver of Secrets",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/41_CU01 Delver of Secrets_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/41_CU01 Delver of Secrets_front.png"
+			}
+		},
+		{
+			"name": "CU02 Private Investigator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/42_CU02 Private Investigator.png"
+			}
+		},
+		{
+			"name": "CU03 Experimental Biologist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/43_CU03 Experimental Biologist.png"
+			}
+		},
+		{
+			"name": "CU04 Emerging Psion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/44_CU04 Emerging Psion.png"
+			}
+		},
+		{
+			"name": "CU05 Wing Commando",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/45_CU05 Wing Commando.png"
+			}
+		},
+		{
+			"name": "CU06 Wave Assaulter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/46_CU06 Wave Assaulter.png"
+			}
+		},
+		{
+			"name": "CU07 Warden of the Stones",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/47_CU07 Warden of the Stones.png"
+			}
+		},
+		{
+			"name": "CU08 Liquimetal Robot",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Shapeshifter Robot",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/48_CU08 Liquimetal Robot.png"
+			}
+		},
+		{
+			"name": "CU09 Aspect from the Future",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Mutant Mystic",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/49_CU09 Aspect from the Future.png"
+			}
+		},
+		{
+			"name": "CU10 Psychic Membrane",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/50_CU10 Psychic Membrane.png"
+			}
+		},
+		{
+			"name": "CU11 You Find the Villains' Lair",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/51_CU11 You Find the Villains' Lair.png"
+			}
+		},
+		{
+			"name": "CU12 Scatter Ray",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/52_CU12 Scatter Ray.png"
+			}
+		},
+		{
+			"name": "CU13 Malfunction",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/53_CU13 Malfunction.png"
+			}
+		},
+		{
+			"name": "CU14 Assemble an Answer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/54_CU14 Assemble an Answer.png"
+			}
+		},
+		{
+			"name": "CU15 Suit Up",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/55_CU15 Suit Up.png"
+			}
+		},
+		{
+			"name": "CU16 Threat Spotted",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/56_CU16 Threat Spotted.png"
+			}
+		},
+		{
+			"name": "CU17 Trickster's Talisman",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/57_CU17 Trickster's Talisman.png"
+			}
+		},
+		{
+			"name": "CU18 Augmentation Experiment",
+			"rarity": "common",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/58_CU18 Augmentation Experiment.png"
+			}
+		},
+		{
+			"name": "CU19 Stealth Mission",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/59_CU19 Stealth Mission.png"
+			}
+		},
+		{
+			"name": "CB01 Cell-Souled Rabid",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Alien Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/80_CB01 Cell-Souled Rabid.png"
+			}
+		},
+		{
+			"name": "CB02 Corrupt Court Official",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/81_CB02 Corrupt Court Official.png"
+			}
+		},
+		{
+			"name": "CB03 Rejected Gorger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Vampire Horror",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/82_CB03 Rejected Gorger.png"
+			}
+		},
+		{
+			"name": "CB04 Willing Minion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Minion",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/83_CB04 Willing Minion.png"
+			}
+		},
+		{
+			"name": "CB05 Cell-Souled Trooper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Alien Spirit Soldier",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/84_CB05 Cell-Souled Trooper.png"
+			}
+		},
+		{
+			"name": "CB06 Cheminion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Minion",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/85_CB06 Cheminion.png"
+			}
+		},
+		{
+			"name": "CB07 Cell-Souled Overseer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Alien Spirit Mystic",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/86_CB07 Cell-Souled Overseer.png"
+			}
+		},
+		{
+			"name": "CB08 Getaway Driver",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/87_CB08 Getaway Driver.png"
+			}
+		},
+		{
+			"name": "CB09 Twisted Mortician",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/88_CB09 Twisted Mortician.png"
+			}
+		},
+		{
+			"name": "CB10 Cell-Souled Amalgam",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Alien Spirit Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/89_CB10 Cell-Souled Amalgam.png"
+			}
+		},
+		{
+			"name": "CB11 Daring Demolition",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/90_CB11 Daring Demolition.png"
+			}
+		},
+		{
+			"name": "CB12 Execute the Weak",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/91_CB12 Execute the Weak.png"
+			}
+		},
+		{
+			"name": "CB13 Vel's Edict",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/92_CB13 Vel's Edict.png"
+			}
+		},
+		{
+			"name": "CB14 Buried in Bodies",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/93_CB14 Buried in Bodies.png"
+			}
+		},
+		{
+			"name": "CB15 Atrocious Experiment",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/94_CB15 Atrocious Experiment.png"
+			}
+		},
+		{
+			"name": "CB16 Search the Wreck",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/95_CB16 Search the Wreck.png"
+			}
+		},
+		{
+			"name": "CB17 Extract the Truth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/96_CB17 Extract the Truth.png"
+			}
+		},
+		{
+			"name": "CB18 Thieves' Tools",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/97_CB18 Thieves' Tools.png"
+			}
+		},
+		{
+			"name": "CB19 In Pursuit",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/98_CB19 In Pursuit.png"
+			}
+		},
+		{
+			"name": "CR01 Fanatic Rioter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/119_CR01 Fanatic Rioter.png"
+			}
+		},
+		{
+			"name": "CR02 Cheering Public",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/120_CR02 Cheering Public.png"
+			}
+		},
+		{
+			"name": "CR07 ERF Frontline Fighter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/125_CR07 ERF Frontline Fighter.png"
+			}
+		},
+		{
+			"name": "CR04 Up-and-comer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/122_CR04 Up-and-comer.png"
+			}
+		},
+		{
+			"name": "CR05 Amped Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/123_CR05 Amped Pyromancer.png"
+			}
+		},
+		{
+			"name": "CR06 Peerless Samurai",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/124_CR06 Peerless Samurai.png"
+			}
+		},
+		{
+			"name": "CR03 Convention Gremlins",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Gremlin",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/121_CR03 Convention Gremlins.png"
+			}
+		},
+		{
+			"name": "CR08 Living Lightning",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Shaman",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/126_CR08 Living Lightning.png"
+			}
+		},
+		{
+			"name": "CR09 Wrecking Crew",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/127_CR09 Wrecking Crew.png"
+			}
+		},
+		{
+			"name": "CR10 Boarding Party",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/128_CR10 Boarding Party.png"
+			}
+		},
+		{
+			"name": "CR11 Magma Jet",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/129_CR11 Magma Jet.png"
+			}
+		},
+		{
+			"name": "CR12 Implosion",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/130_CR12 Implosion.png"
+			}
+		},
+		{
+			"name": "CR13 Thread of Fate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/131_CR13 Thread of Fate.png"
+			}
+		},
+		{
+			"name": "CR14 Violent Impact",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/132_CR14 Violent Impact.png"
+			}
+		},
+		{
+			"name": "CR15 Blazing Crescendo",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/133_CR15 Blazing Crescendo.png"
+			}
+		},
+		{
+			"name": "CR16 Lightning Spear",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/134_CR16 Lightning Spear.png"
+			}
+		},
+		{
+			"name": "CR17 Invasion Day",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/135_CR17 Invasion Day.png"
+			}
+		},
+		{
+			"name": "CR18 Seeing Red",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/136_CR18 Seeing Red.png"
+			}
+		},
+		{
+			"name": "CR19 Thought Rip",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/137_CR19 Thought Rip.png"
+			}
+		},
+		{
+			"name": "CG01 Cell-Souled Neonate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Alien Spirit",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/159_CG01 Cell-Souled Neonate.png"
+			}
+		},
+		{
+			"name": "CG02 Stone Tender",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/160_CG02 Stone Tender.png"
+			}
+		},
+		{
+			"name": "CG03 Backstreet Thugs",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/161_CG03 Backstreet Thugs.png"
+			}
+		},
+		{
+			"name": "CG04 B.E.A.S.T. Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog Mutant Mercenary",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/162_CG04 B.E.A.S.T. Mercenary.png"
+			}
+		},
+		{
+			"name": "CG05 Biotank Supervisor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Alien Druid",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/163_CG05 Biotank Supervisor.png"
+			}
+		},
+		{
+			"name": "CG06 Cell-Souled Nodal",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Alien Spirit",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/164_CG06 Cell-Souled Nodal.png"
+			}
+		},
+		{
+			"name": "CG07 Mutagenic Mass",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Mutant Ooze",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/165_CG07 Mutagenic Mass.png"
+			}
+		},
+		{
+			"name": "CG09 Cell-Souled Divine",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Alien Spirit Cleric",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/167_CG09 Cell-Souled Divine.png"
+			}
+		},
+		{
+			"name": "CG08 B.E.A.S.T. Officer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ferret Mutant Soldier",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/166_CG08 B.E.A.S.T. Officer.png"
+			}
+		},
+		{
+			"name": "CG10 Time Lost Primitive",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/168_CG10 Time Lost Primitive.png"
+			}
+		},
+		{
+			"name": "UG04 Endoparasitoid Xeno",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{G}",
+			"type": "Creature — Alien Horror",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/190_UG04 Endoparasitoid Xeno.png"
+			}
+		},
+		{
+			"name": "CG12 Mainstreet Bout",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/170_CG12 Mainstreet Bout.png"
+			}
+		},
+		{
+			"name": "CG13 Colossal Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/171_CG13 Colossal Growth.png"
+			}
+		},
+		{
+			"name": "CG14 Luxurious Libation",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/172_CG14 Luxurious Libation.png"
+			}
+		},
+		{
+			"name": "CG15 Reclaim Biomass",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/173_CG15 Reclaim Biomass.png"
+			}
+		},
+		{
+			"name": "CG16 Tengri's Soul Bow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/174_CG16 Tengri's Soul Bow.png"
+			}
+		},
+		{
+			"name": "CG17 Bird Meet Plane",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/175_CG17 Bird Meet Plane.png"
+			}
+		},
+		{
+			"name": "CG18 Grafted Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/176_CG18 Grafted Growth.png"
+			}
+		},
+		{
+			"name": "CG19 Quiet Disrepair",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/177_CG19 Quiet Disrepair.png"
+			}
+		},
+		{
+			"name": "UW01 Steadfast Citizen",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/30_UW01 Steadfast Citizen.png"
+			}
+		},
+		{
+			"name": "UW02 Statuesque",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Coward",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/31_UW02 Statuesque.png"
+			}
+		},
+		{
+			"name": "UW03 Resistance Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/32_UW03 Resistance Squad.png"
+			}
+		},
+		{
+			"name": "UW04 Attorney-at-law",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/33_UW04 Attorney-at-law.png"
+			}
+		},
+		{
+			"name": "UW05 B.E.A.S.T. Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird Mutant Scout",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/34_UW05 B.E.A.S.T. Scout.png"
+			}
+		},
+		{
+			"name": "UW06 Automated Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/35_UW06 Automated Warden.png"
+			}
+		},
+		{
+			"name": "UW07 General Steele",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/36_UW07 General Steele.png"
+			}
+		},
+		{
+			"name": "UW08 Rise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/37_UW08 Rise.png"
+			}
+		},
+		{
+			"name": "UW09 CANN Cell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/38_UW09 CANN Cell.png"
+			}
+		},
+		{
+			"name": "UW10 Assemble the Institute",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/39_UW10 Assemble the Institute.png"
+			}
+		},
+		{
+			"name": "UW11 Servo Exhibition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/40_UW11 Servo Exhibition.png"
+			}
+		},
+		{
+			"name": "UU01 Psychic Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/69_UU01 Psychic Channeler.png"
+			}
+		},
+		{
+			"name": "UU02 Daring Saboteur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/70_UU02 Daring Saboteur.png"
+			}
+		},
+		{
+			"name": "UU04 Spy Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Eye Drone",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/72_UU04 Spy Drone.png"
+			}
+		},
+		{
+			"name": "UM01 The Man of the House",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "213",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/213_UM01 The Man of the House_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/213_UM01 The Man of the House_front.png"
+			}
+		},
+		{
+			"name": "UU06 Portaltrix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/74_UU06 Portaltrix.png"
+			}
+		},
+		{
+			"name": "UU07 Solid Figment",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/75_UU07 Solid Figment.png"
+			}
+		},
+		{
+			"name": "UU08 Scrutinize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/76_UU08 Scrutinize.png"
+			}
+		},
+		{
+			"name": "UU09 Delay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/77_UU09 Delay.png"
+			}
+		},
+		{
+			"name": "UU10 Voyage Through Time",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/78_UU10 Voyage Through Time.png"
+			}
+		},
+		{
+			"name": "UU11 Thoughtform",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/79_UU11 Thoughtform.png"
+			}
+		},
+		{
+			"name": "UB01 Nanobot Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/108_UB01 Nanobot Swarm.png"
+			}
+		},
+		{
+			"name": "UB02 Cell-Souled Expendable",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Alien Spirit Warrior",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/109_UB02 Cell-Souled Expendable.png"
+			}
+		},
+		{
+			"name": "UB03 Balloonatic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/110_UB03 Balloonatic.png"
+			}
+		},
+		{
+			"name": "UB04 Cell-Souled Endurer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Alien Spirit Soldier",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/111_UB04 Cell-Souled Endurer.png"
+			}
+		},
+		{
+			"name": "UB07 Lingering Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/114_UB07 Lingering Phantom.png"
+			}
+		},
+		{
+			"name": "UB06 Geiger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/113_UB06 Geiger.png"
+			}
+		},
+		{
+			"name": "UB05 Loyal Second",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Minion",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/112_UB05 Loyal Second.png"
+			}
+		},
+		{
+			"name": "UB08 Hero's Downfall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/115_UB08 Hero's Downfall.png"
+			}
+		},
+		{
+			"name": "UB09 We Can Rebuild Him",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/116_UB09 We Can Rebuild Him.png"
+			}
+		},
+		{
+			"name": "UB10 Arlan'ah Invasion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/117_UB10 Arlan'ah Invasion.png"
+			}
+		},
+		{
+			"name": "UB11 Shadows of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/118_UB11 Shadows of the Past.png"
+			}
+		},
+		{
+			"name": "UR01 Reinforced Ronin",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Samurai",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/148_UR01 Reinforced Ronin.png"
+			}
+		},
+		{
+			"name": "UR02 Big League",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Mutant Barbarian",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/149_UR02 Big League.png"
+			}
+		},
+		{
+			"name": "UR03 Stage Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/150_UR03 Stage Magician.png"
+			}
+		},
+		{
+			"name": "UR04 Kinetic Augur",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/151_UR04 Kinetic Augur.png"
+			}
+		},
+		{
+			"name": "UR05 Space Racer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Alien Pilot",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/152_UR05 Space Racer.png"
+			}
+		},
+		{
+			"name": "UR06 Mister Monster",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Legendary Creature — Mutant Beast",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/153_UR06 Mister Monster.png"
+			}
+		},
+		{
+			"name": "UR07 ERF Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/154_UR07 ERF Recruiter.png"
+			}
+		},
+		{
+			"name": "UR08 Breach and Clear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/155_UR08 Breach and Clear.png"
+			}
+		},
+		{
+			"name": "UR09 Volcanic Fallout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/156_UR09 Volcanic Fallout.png"
+			}
+		},
+		{
+			"name": "UR10 Pertinacities' Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/157_UR10 Pertinacities' Sacrifice.png"
+			}
+		},
+		{
+			"name": "UR11 Returning Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/158_UR11 Returning Memories.png"
+			}
+		},
+		{
+			"name": "UG01 Green Thumb",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/187_UG01 Green Thumb.png"
+			}
+		},
+		{
+			"name": "UG02 Rostered Terrakinetic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/188_UG02 Rostered Terrakinetic.png"
+			}
+		},
+		{
+			"name": "UG03 Cell-Souled Biomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Alien Spirit Shaman",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/189_UG03 Cell-Souled Biomancer.png"
+			}
+		},
+		{
+			"name": "UG05 Cell-Souled Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Alien Spirit Berserker",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/191_UG05 Cell-Souled Titan.png"
+			}
+		},
+		{
+			"name": "UG06 Living Liberty",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/192_UG06 Living Liberty.png"
+			}
+		},
+		{
+			"name": "UG07 Captain Trench",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/193_UG07 Captain Trench.png"
+			}
+		},
+		{
+			"name": "UG08 Berserk",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/194_UG08 Berserk.png"
+			}
+		},
+		{
+			"name": "UG09 Regrow from Disaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/195_UG09 Regrow from Disaster.png"
+			}
+		},
+		{
+			"name": "UG10 Morgain Declares War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/196_UG10 Morgain Declares War.png"
+			}
+		},
+		{
+			"name": "UG11 Biogenic Upgrade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/197_UG11 Biogenic Upgrade.png"
+			}
+		},
+		{
+			"name": "RW01 Solar Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/23_RW01 Solar Sentinel.png"
+			}
+		},
+		{
+			"name": "RX05 Warskeleton",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/241_RX05 Warskeleton.png"
+			}
+		},
+		{
+			"name": "RW03 Harmony",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/25_RW03 Harmony.png"
+			}
+		},
+		{
+			"name": "RW04 Arthur",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/26_RW04 Arthur.png"
+			}
+		},
+		{
+			"name": "RW05 Single Combat",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/27_RW05 Single Combat.png"
+			}
+		},
+		{
+			"name": "RW06 Prepare for Battle",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/28_RW06 Prepare for Battle.png"
+			}
+		},
+		{
+			"name": "RW07 Invoke Justice",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/29_RW07 Invoke Justice.png"
+			}
+		},
+		{
+			"name": "RU01 Sally Saturn",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/62_RU01 Sally Saturn.png"
+			}
+		},
+		{
+			"name": "RU02 Quatermaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/63_RU02 Quatermaster.png"
+			}
+		},
+		{
+			"name": "RU03 Dr. Friendly",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/64_RU03 Dr. Friendly.png"
+			}
+		},
+		{
+			"name": "RU04 Wetwork",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Elemental Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/65_RU04 Wetwork.png"
+			}
+		},
+		{
+			"name": "RU05 Lair Defence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/66_RU05 Lair Defence.png"
+			}
+		},
+		{
+			"name": "RU06 Treachery",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/67_RU06 Treachery.png"
+			}
+		},
+		{
+			"name": "RU07 Multiversal Tear",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/68_RU07 Multiversal Tear.png"
+			}
+		},
+		{
+			"name": "RB02 Hydroxis",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Human Ooze",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/102_RB02 Hydroxis.png"
+			}
+		},
+		{
+			"name": "RB01 Null",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Shade",
+			"collector_number": "101",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/101_RB01 Null_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/101_RB01 Null_front.png"
+			}
+		},
+		{
+			"name": "RB03 Korkulo, Heartstopper",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/103_RB03 Korkulo, Heartstopper.png"
+			}
+		},
+		{
+			"name": "RB04 Mordred, Returned",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/104_RB04 Mordred, Returned.png"
+			}
+		},
+		{
+			"name": "RB05 Hero's Demise",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/105_RB05 Hero's Demise.png"
+			}
+		},
+		{
+			"name": "RB06 Secret Wormhole",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/106_RB06 Secret Wormhole.png"
+			}
+		},
+		{
+			"name": "RB07 Collector's Bargain",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/107_RB07 Collector's Bargain.png"
+			}
+		},
+		{
+			"name": "RR01 Crash",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Alien Pilot",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/141_RR01 Crash.png"
+			}
+		},
+		{
+			"name": "MR01 Thunderbird",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Phoenix",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/139_MR01 Thunderbird.png"
+			}
+		},
+		{
+			"name": "RR03 Prince Ares",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Alien Noble Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/143_RR03 Prince Ares.png"
+			}
+		},
+		{
+			"name": "RR04 Miss Atomic Bomb",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/144_RR04 Miss Atomic Bomb.png"
+			}
+		},
+		{
+			"name": "RR05 Relentless Assault",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/145_RR05 Relentless Assault.png"
+			}
+		},
+		{
+			"name": "RR06 Electrodominance",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/146_RR06 Electrodominance.png"
+			}
+		},
+		{
+			"name": "RR07 Mechanized Warfare",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/147_RR07 Mechanized Warfare.png"
+			}
+		},
+		{
+			"name": "RG01 The Valkyrie",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/180_RG01 The Valkyrie.png"
+			}
+		},
+		{
+			"name": "RG02 Polymer Man",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/181_RG02 Polymer Man.png"
+			}
+		},
+		{
+			"name": "RG03 Pertinacity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/182_RG03 Pertinacity.png"
+			}
+		},
+		{
+			"name": "RG04 Bootleg",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/183_RG04 Bootleg.png"
+			}
+		},
+		{
+			"name": "RG05 Olympus Project",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/184_RG05 Olympus Project.png"
+			}
+		},
+		{
+			"name": "RG06 Fight Rigging",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/185_RG06 Fight Rigging.png"
+			}
+		},
+		{
+			"name": "RG07 Heroic Intervention",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/186_RG07 Heroic Intervention.png"
+			}
+		},
+		{
+			"name": "MW01 TV Head, Legacy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/22_MW01 TV Head, Legacy.png"
+			}
+		},
+		{
+			"name": "MW02 Honjo Masamune",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "232",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/232_MW02 Honjo Masamune_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/232_MW02 Honjo Masamune_front.png"
+			}
+		},
+		{
+			"name": "MU01 Father Time",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/60_MU01 Father Time.png"
+			}
+		},
+		{
+			"name": "MU02 Tune, Song of Reality",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Planeswalker — Tune",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/61_MU02 Tune, Song of Reality.png"
+			}
+		},
+		{
+			"name": "MB01 Nkosi Uthuli, God of Dust",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Alien God",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/99_MB01 Nkosi Uthuli, God of Dust.png"
+			}
+		},
+		{
+			"name": "MB02 Aakash Nadar, MegaSol CEO",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Planeswalker — Aakash",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/100_MB02 Aakash Nadar, MegaSol CEO.png"
+			}
+		},
+		{
+			"name": "RR02 Novalain, Novaco CEO",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/142_RR02 Novalain, Novaco CEO.png"
+			}
+		},
+		{
+			"name": "MR02 Final Fortune",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/140_MR02 Final Fortune.png"
+			}
+		},
+		{
+			"name": "MG01 Nkosi Imvelo, God of Nature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Alien God",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/178_MG01 Nkosi Imvelo, God of Nature.png"
+			}
+		},
+		{
+			"name": "MG02 Doubling Season",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/179_MG02 Doubling Season.png"
+			}
+		},
+		{
+			"name": "UM01 Ricky Rocket, Philanthropist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/212_UM01 Ricky Rocket, Philanthropist.png"
+			}
+		},
+		{
+			"name": "UU05 The Mollusk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Slug Crab Mutant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/73_UU05 The Mollusk.png"
+			}
+		},
+		{
+			"name": "UM01 Belphegor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{BR}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/223_UM01 Belphegor.png"
+			}
+		},
+		{
+			"name": "UM01 Hopalong Holden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/211_UM01 Hopalong Holden.png"
+			}
+		},
+		{
+			"name": "UM01 Wildspirit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/217_UM01 Wildspirit.png"
+			}
+		},
+		{
+			"name": "UM01 Danielle Moore, Liason",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/210_UM01 Danielle Moore, Liason.png"
+			}
+		},
+		{
+			"name": "UM01 Violet Star",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/216_UM01 Violet Star.png"
+			}
+		},
+		{
+			"name": "UM01 Cell-Souled Advisor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Alien Spirit Advisor",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/209_UM01 Cell-Souled Advisor.png"
+			}
+		},
+		{
+			"name": "UM01 Victor Tinkor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/215_UM01 Victor Tinkor.png"
+			}
+		},
+		{
+			"name": "UM01 The Wilderness Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/214_UM01 The Wilderness Stalker.png"
+			}
+		},
+		{
+			"name": "RM01 Velocity Mass",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/205_RM01 Velocity Mass.png"
+			}
+		},
+		{
+			"name": "RM01 Cybershot",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Artifact Creature — Human Soldier",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/199_RM01 Cybershot.png"
+			}
+		},
+		{
+			"name": "RM01 Motts'ah, Invader",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Alien Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/202_RM01 Motts'ah, Invader.png"
+			}
+		},
+		{
+			"name": "RM01 GAIA, Helpful Assistant",
+			"rarity": "rare",
+			"mana_cost": "{1}{WB}{WB}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "222",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/222_RM01 GAIA, Helpful Assistant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/222_RM01 GAIA, Helpful Assistant_front.png"
+			}
+		},
+		{
+			"name": "RM01 Wondermind",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Mystic",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/207_RM01 Wondermind.png"
+			}
+		},
+		{
+			"name": "RM01 Overdriver",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/203_RM01 Overdriver.png"
+			}
+		},
+		{
+			"name": "RM01 Duplex",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/200_RM01 Duplex.png"
+			}
+		},
+		{
+			"name": "CA01 Firestarter Drone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/225_CA01 Firestarter Drone.png"
+			}
+		},
+		{
+			"name": "CA02 Rampant Assembler",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/226_CA02 Rampant Assembler.png"
+			}
+		},
+		{
+			"name": "CA03 Supression Bot",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/227_CA03 Supression Bot.png"
+			}
+		},
+		{
+			"name": "CA04 Chromatic Star",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/228_CA04 Chromatic Star.png"
+			}
+		},
+		{
+			"name": "CA05 Makeshift Jetpack",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/229_CA05 Makeshift Jetpack.png"
+			}
+		},
+		{
+			"name": "UA01 Watchers of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Cat",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/244_UA01 Watchers of the Dead.png"
+			}
+		},
+		{
+			"name": "UA02 Slipdrive UFO",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/245_UA02 Slipdrive UFO.png"
+			}
+		},
+		{
+			"name": "UA03 Clone Shell",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/246_UA03 Clone Shell.png"
+			}
+		},
+		{
+			"name": "UA04 Introduction to Annihilation",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/1_UA04 Introduction to Annihilation.png"
+			}
+		},
+		{
+			"name": "UA05 Chromatic Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/247_UA05 Chromatic Rig.png"
+			}
+		},
+		{
+			"name": "RL01 Bayside City",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/251_RL01 Bayside City.png"
+			}
+		},
+		{
+			"name": "UL01 Cleanup Zone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/252_UL01 Cleanup Zone.png"
+			}
+		},
+		{
+			"name": "UL03 Secret Laboratory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/254_UL03 Secret Laboratory.png"
+			}
+		},
+		{
+			"name": "UL04 Dusty Highway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/255_UL04 Dusty Highway.png"
+			}
+		},
+		{
+			"name": "UL05 City Docks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/256_UL05 City Docks.png"
+			}
+		},
+		{
+			"name": "UX01 Bank Robbery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/218_UX01 Bank Robbery.png"
+			}
+		},
+		{
+			"name": "UX02 Twist of Luck",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{UR}{R}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/224_UX02 Twist of Luck.png"
+			}
+		},
+		{
+			"name": "UX03 Urban Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/219_UX03 Urban Evolution.png"
+			}
+		},
+		{
+			"name": "UX04 Plea for Help",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/220_UX04 Plea for Help.png"
+			}
+		},
+		{
+			"name": "UX05 Back for More",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/221_UX05 Back for More.png"
+			}
+		},
+		{
+			"name": "RX01 Chromatic Lantern",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/237_RX01 Chromatic Lantern.png"
+			}
+		},
+		{
+			"name": "RX02 Sea King's Sub-Fortress",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "238",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Battleguy01.github.io/sets/BAY-files/img/238_RX02 Sea King's Sub-Fortress_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/238_RX02 Sea King's Sub-Fortress_front.png"
+			}
+		},
+		{
+			"name": "RX03 Iconic Blades",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/239_RX03 Iconic Blades.png"
+			}
+		},
+		{
+			"name": "RX04 Mirror Box",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/240_RX04 Mirror Box.png"
+			}
+		},
+		{
+			"name": "RW02 Digi-Lord",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Artifact Creature — Human Artificer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/24_RW02 Digi-Lord.png"
+			}
+		},
+		{
+			"name": "RX06 Duplicant",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/242_RX06 Duplicant.png"
+			}
+		},
+		{
+			"name": "RX07 Ion",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/243_RX07 Ion.png"
+			}
+		},
+		{
+			"name": "RX08 Assemble the Chroma",
+			"rarity": "rare",
+			"mana_cost": "{2W}{2U}{2B}{2R}{2G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/208_RX08 Assemble the Chroma.png"
+			}
+		},
+		{
+			"name": "MX01 Ultimate Paragon",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/198_MX01 Ultimate Paragon.png"
+			}
+		},
+		{
+			"name": "MX02 Chromatic Orrery",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/233_MX02 Chromatic Orrery.png"
+			}
+		},
+		{
+			"name": "MX03 SW Satalite System",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/234_MX03 SW Satalite System.png"
+			}
+		},
+		{
+			"name": "MX04 Heroes' Podium",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/235_MX04 Heroes' Podium.png"
+			}
+		},
+		{
+			"name": "MX05 Rapid Response Jet",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/236_MX05 Rapid Response Jet.png"
+			}
+		},
+		{
+			"name": "RM01 Vel, Cell-Souled Chiliarch",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Alien Spirit Mercenary",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/204_RM01 Vel, Cell-Souled Chiliarch.png"
+			}
+		},
+		{
+			"name": "UL02 Heroes' Memorial",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/253_UL02 Heroes' Memorial.png"
+			}
+		},
+		{
+			"name": "CA06 Institute Shuttle",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/230_CA06 Institute Shuttle.png"
+			}
+		},
+		{
+			"name": "RM01 Just As Steve",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/201_RM01 Just As Steve.png"
+			}
+		},
+		{
+			"name": "RM01 Vitae, Agent Hera",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/206_RM01 Vitae, Agent Hera.png"
+			}
+		},
+		{
+			"name": "XT01 Suki",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Wolf",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/6_XT01 Suki.png"
+			}
+		},
+		{
+			"name": "UU03 Rostered Hydrokinetic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/71_UU03 Rostered Hydrokinetic.png"
+			}
+		},
+		{
+			"name": "CL01 Warehouse District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/249_CL01 Warehouse District.png"
+			}
+		},
+		{
+			"name": "XT02 Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/9_XT02 Servo.png"
+			}
+		},
+		{
+			"name": "XT03 Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/8_XT03 Citizen.png"
+			}
+		},
+		{
+			"name": "XT04 Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/1_XT04 Copy.png"
+			}
+		},
+		{
+			"name": "XT05 Dropship",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vehicle",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/10_XT05 Dropship.png"
+			}
+		},
+		{
+			"name": "XT06 Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/11_XT06 Treasure.png"
+			}
+		},
+		{
+			"name": "XT07 Powerstone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Powerstone",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/12_XT07 Powerstone.png"
+			}
+		},
+		{
+			"name": "XT08 Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/7_XT08 Plant.png"
+			}
+		},
+		{
+			"name": "XT09 Alien Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Alien Army",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/4_XT09 Alien Army.png"
+			}
+		},
+		{
+			"name": "XT10 Balloon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Balloon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/5_XT10 Balloon.png"
+			}
+		},
+		{
+			"name": "XT11 Wall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wall",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/3_XT11 Wall.png"
+			}
+		},
+		{
+			"name": "XT12 Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/13_XT12 Clue.png"
+			}
+		},
+		{
+			"name": "XT13 Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/14_XT13 Food.png"
+			}
+		},
+		{
+			"name": "UA06 Morgain Magi-Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/248_UA06 Morgain Magi-Tank.png"
+			}
+		},
+		{
+			"name": "XT14 Tune",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/2_XT14 Tune.png"
+			}
+		},
+		{
+			"name": "CG11 Towering Gibbon",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ape",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/169_CG11 Towering Gibbon.png"
+			}
+		},
+		{
+			"name": "CA07 Modded Colossus",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/231_CA07 Modded Colossus.png"
+			}
+		},
+		{
+			"name": "CR20 Junkyard Mech",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/138_CR20 Junkyard Mech.png"
+			}
+		},
+		{
+			"name": "CW20 Interplanetary Rover",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/21_CW20 Interplanetary Rover.png"
+			}
+		},
+		{
+			"name": "CL02 Dimensional Crack",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Battleguy01.github.io/sets/BAY-files/img/250_CL02 Dimensional Crack.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 RW01 Solar Sentinel
+	2 RX05 Warskeleton
+	2 RW03 Harmony
+	2 RW04 Arthur
+	2 RW05 Single Combat
+	2 RW06 Prepare for Battle
+	2 RW07 Invoke Justice
+	2 RU01 Sally Saturn
+	2 RU02 Quatermaster
+	2 RU03 Dr. Friendly
+	2 RU04 Wetwork
+	2 RU05 Lair Defence
+	2 RU06 Treachery
+	2 RU07 Multiversal Tear
+	2 RB02 Hydroxis
+	2 RB01 Null
+	2 RB03 Korkulo, Heartstopper
+	2 RB04 Mordred, Returned
+	2 RB05 Hero's Demise
+	2 RB06 Secret Wormhole
+	2 RB07 Collector's Bargain
+	2 RR01 Crash
+	1 MR01 Thunderbird
+	2 RR03 Prince Ares
+	2 RR04 Miss Atomic Bomb
+	2 RR05 Relentless Assault
+	2 RR06 Electrodominance
+	2 RR07 Mechanized Warfare
+	2 RG01 The Valkyrie
+	2 RG02 Polymer Man
+	2 RG03 Pertinacity
+	2 RG04 Bootleg
+	2 RG05 Olympus Project
+	2 RG06 Fight Rigging
+	2 RG07 Heroic Intervention
+	1 MW01 TV Head, Legacy
+	1 MW02 Honjo Masamune
+	1 MU01 Father Time
+	1 MU02 Tune, Song of Reality
+	1 MB01 Nkosi Uthuli, God of Dust
+	1 MB02 Aakash Nadar, MegaSol CEO
+	2 RR02 Novalain, Novaco CEO
+	1 MR02 Final Fortune
+	1 MG01 Nkosi Imvelo, God of Nature
+	1 MG02 Doubling Season
+	2 RM01 Velocity Mass
+	2 RM01 Cybershot
+	2 RM01 Motts'ah, Invader
+	2 RM01 GAIA, Helpful Assistant
+	2 RM01 Wondermind
+	2 RM01 Overdriver
+	2 RM01 Duplex
+	2 RL01 Bayside City
+	2 RX01 Chromatic Lantern
+	2 RX02 Sea King's Sub-Fortress
+	2 RX03 Iconic Blades
+	2 RX04 Mirror Box
+	2 RW02 Digi-Lord
+	2 RX06 Duplicant
+	2 RX07 Ion
+	2 RX08 Assemble the Chroma
+	1 MX01 Ultimate Paragon
+	1 MX02 Chromatic Orrery
+	1 MX03 SW Satalite System
+	1 MX04 Heroes' Podium
+	1 MX05 Rapid Response Jet
+	2 RM01 Vel, Cell-Souled Chiliarch
+	2 RM01 Just As Steve
+	2 RM01 Vitae, Agent Hera
+[uncommon(4)]
+	4 UG04 Endoparasitoid Xeno
+	4 UW01 Steadfast Citizen
+	4 UW02 Statuesque
+	4 UW03 Resistance Squad
+	4 UW04 Attorney-at-law
+	4 UW05 B.E.A.S.T. Scout
+	4 UW06 Automated Warden
+	4 UW07 General Steele
+	4 UW08 Rise
+	4 UW09 CANN Cell
+	4 UW10 Assemble the Institute
+	4 UW11 Servo Exhibition
+	4 UU01 Psychic Channeler
+	4 UU02 Daring Saboteur
+	4 UU04 Spy Drone
+	4 UM01 The Man of the House
+	4 UU06 Portaltrix
+	4 UU07 Solid Figment
+	4 UU08 Scrutinize
+	4 UU09 Delay
+	4 UU10 Voyage Through Time
+	4 UU11 Thoughtform
+	4 UB01 Nanobot Swarm
+	4 UB02 Cell-Souled Expendable
+	4 UB03 Balloonatic
+	4 UB04 Cell-Souled Endurer
+	4 UB07 Lingering Phantom
+	4 UB06 Geiger
+	4 UB05 Loyal Second
+	4 UB08 Hero's Downfall
+	4 UB09 We Can Rebuild Him
+	4 UB10 Arlan'ah Invasion
+	4 UB11 Shadows of the Past
+	4 UR01 Reinforced Ronin
+	4 UR02 Big League
+	4 UR03 Stage Magician
+	4 UR04 Kinetic Augur
+	4 UR05 Space Racer
+	4 UR06 Mister Monster
+	4 UR07 ERF Recruiter
+	4 UR08 Breach and Clear
+	4 UR09 Volcanic Fallout
+	4 UR10 Pertinacities' Sacrifice
+	4 UR11 Returning Memories
+	4 UG01 Green Thumb
+	4 UG02 Rostered Terrakinetic
+	4 UG03 Cell-Souled Biomancer
+	4 UG05 Cell-Souled Titan
+	4 UG06 Living Liberty
+	4 UG07 Captain Trench
+	4 UG08 Berserk
+	4 UG09 Regrow from Disaster
+	4 UG10 Morgain Declares War
+	4 UG11 Biogenic Upgrade
+	4 UM01 Ricky Rocket, Philanthropist
+	4 UU05 The Mollusk
+	4 UM01 Belphegor
+	4 UM01 Hopalong Holden
+	4 UM01 Wildspirit
+	4 UM01 Danielle Moore, Liason
+	4 UM01 Violet Star
+	4 UM01 Cell-Souled Advisor
+	4 UM01 Victor Tinkor
+	4 UM01 The Wilderness Stalker
+	4 UA01 Watchers of the Dead
+	4 UA02 Slipdrive UFO
+	4 UA03 Clone Shell
+	4 UA04 Introduction to Annihilation
+	4 UA05 Chromatic Rig
+	4 UL01 Cleanup Zone
+	4 UL03 Secret Laboratory
+	4 UL04 Dusty Highway
+	4 UL05 City Docks
+	4 UX01 Bank Robbery
+	4 UX02 Twist of Luck
+	4 UX03 Urban Evolution
+	4 UX04 Plea for Help
+	4 UX05 Back for More
+	4 UL02 Heroes' Memorial
+	4 UU03 Rostered Hydrokinetic
+	4 UA06 Morgain Magi-Tank
+[common(7)]
+	8 CW01 Shuttle Pilot
+	8 CW02 Stolen Soul
+	8 CW03 Institute Agent
+	8 CW04 Disciple of Chroma
+	8 CW05 Institute Auto-doc
+	8 CW06 Inspired Sidekick
+	8 CW07 Augmented Sentry
+	8 CW08 Repair Shop Assistant
+	8 CW09 Aerial Scout Drone
+	8 CW10 Distracting Crowd
+	8 CW11 Salaried Robotisist
+	8 CW12 Hero in the Making
+	8 CW13 Wanderer's Intervention
+	8 CW14 Intercessor's Arrest
+	8 CW15 Villain Takedown
+	8 CW16 Act of Heroism
+	8 CW17 Enlightening Blade
+	8 CW18 Lead to Victory
+	8 CW19 Decommission
+	8 CU01 Delver of Secrets
+	8 CU02 Private Investigator
+	8 CU03 Experimental Biologist
+	8 CU04 Emerging Psion
+	8 CU05 Wing Commando
+	8 CU06 Wave Assaulter
+	8 CU07 Warden of the Stones
+	8 CU08 Liquimetal Robot
+	8 CU09 Aspect from the Future
+	8 CU10 Psychic Membrane
+	8 CU11 You Find the Villains' Lair
+	8 CU12 Scatter Ray
+	8 CU13 Malfunction
+	8 CU14 Assemble an Answer
+	8 CU15 Suit Up
+	8 CU16 Threat Spotted
+	8 CU17 Trickster's Talisman
+	8 CU18 Augmentation Experiment
+	8 CU19 Stealth Mission
+	8 CB01 Cell-Souled Rabid
+	8 CB02 Corrupt Court Official
+	8 CB03 Rejected Gorger
+	8 CB04 Willing Minion
+	8 CB05 Cell-Souled Trooper
+	8 CB06 Cheminion
+	8 CB07 Cell-Souled Overseer
+	8 CB08 Getaway Driver
+	8 CB09 Twisted Mortician
+	8 CB10 Cell-Souled Amalgam
+	8 CB11 Daring Demolition
+	8 CB12 Execute the Weak
+	8 CB13 Vel's Edict
+	8 CB14 Buried in Bodies
+	8 CB15 Atrocious Experiment
+	8 CB16 Search the Wreck
+	8 CB17 Extract the Truth
+	8 CB18 Thieves' Tools
+	8 CB19 In Pursuit
+	8 CR01 Fanatic Rioter
+	8 CR02 Cheering Public
+	8 CR07 ERF Frontline Fighter
+	8 CR04 Up-and-comer
+	8 CR05 Amped Pyromancer
+	8 CR06 Peerless Samurai
+	8 CR03 Convention Gremlins
+	8 CR08 Living Lightning
+	8 CR09 Wrecking Crew
+	8 CR10 Boarding Party
+	8 CR11 Magma Jet
+	8 CR12 Implosion
+	8 CR13 Thread of Fate
+	8 CR14 Violent Impact
+	8 CR15 Blazing Crescendo
+	8 CR16 Lightning Spear
+	8 CR17 Invasion Day
+	8 CR18 Seeing Red
+	8 CR19 Thought Rip
+	8 CG01 Cell-Souled Neonate
+	8 CG02 Stone Tender
+	8 CG03 Backstreet Thugs
+	8 CG04 B.E.A.S.T. Mercenary
+	8 CG05 Biotank Supervisor
+	8 CG06 Cell-Souled Nodal
+	8 CG07 Mutagenic Mass
+	8 CG09 Cell-Souled Divine
+	8 CG08 B.E.A.S.T. Officer
+	8 CG10 Time Lost Primitive
+	8 CG12 Mainstreet Bout
+	8 CG13 Colossal Growth
+	8 CG14 Luxurious Libation
+	8 CG15 Reclaim Biomass
+	8 CG16 Tengri's Soul Bow
+	8 CG17 Bird Meet Plane
+	8 CG18 Grafted Growth
+	8 CG19 Quiet Disrepair
+	8 CA01 Firestarter Drone
+	8 CA02 Rampant Assembler
+	8 CA03 Supression Bot
+	8 CA04 Chromatic Star
+	8 CA05 Makeshift Jetpack
+	8 CA06 Institute Shuttle
+	8 CL01 Warehouse District
+	8 CG11 Towering Gibbon
+	8 CA07 Modded Colossus
+	8 CR20 Junkyard Mech
+	8 CW20 Interplanetary Rover
+	8 CL02 Dimensional Crack
+[wildcard(2)]
+	6 CW01 Shuttle Pilot
+	6 CW02 Stolen Soul
+	6 CW03 Institute Agent
+	6 CW04 Disciple of Chroma
+	6 CW05 Institute Auto-doc
+	6 CW06 Inspired Sidekick
+	6 CW07 Augmented Sentry
+	6 CW08 Repair Shop Assistant
+	6 CW09 Aerial Scout Drone
+	6 CW10 Distracting Crowd
+	6 CW11 Salaried Robotisist
+	6 CW12 Hero in the Making
+	6 CW13 Wanderer's Intervention
+	6 CW14 Intercessor's Arrest
+	6 CW15 Villain Takedown
+	6 CW16 Act of Heroism
+	6 CW17 Enlightening Blade
+	6 CW18 Lead to Victory
+	6 CW19 Decommission
+	6 CU01 Delver of Secrets
+	6 CU02 Private Investigator
+	6 CU03 Experimental Biologist
+	6 CU04 Emerging Psion
+	6 CU05 Wing Commando
+	6 CU06 Wave Assaulter
+	6 CU07 Warden of the Stones
+	6 CU08 Liquimetal Robot
+	6 CU09 Aspect from the Future
+	6 CU10 Psychic Membrane
+	6 CU11 You Find the Villains' Lair
+	6 CU12 Scatter Ray
+	6 CU13 Malfunction
+	6 CU14 Assemble an Answer
+	6 CU15 Suit Up
+	6 CU16 Threat Spotted
+	6 CU17 Trickster's Talisman
+	6 CU18 Augmentation Experiment
+	6 CU19 Stealth Mission
+	6 CB01 Cell-Souled Rabid
+	6 CB02 Corrupt Court Official
+	6 CB03 Rejected Gorger
+	6 CB04 Willing Minion
+	6 CB05 Cell-Souled Trooper
+	6 CB06 Cheminion
+	6 CB07 Cell-Souled Overseer
+	6 CB08 Getaway Driver
+	6 CB09 Twisted Mortician
+	6 CB10 Cell-Souled Amalgam
+	6 CB11 Daring Demolition
+	6 CB12 Execute the Weak
+	6 CB13 Vel's Edict
+	6 CB14 Buried in Bodies
+	6 CB15 Atrocious Experiment
+	6 CB16 Search the Wreck
+	6 CB17 Extract the Truth
+	6 CB18 Thieves' Tools
+	6 CB19 In Pursuit
+	6 CR01 Fanatic Rioter
+	6 CR02 Cheering Public
+	6 CR07 ERF Frontline Fighter
+	6 CR04 Up-and-comer
+	6 CR05 Amped Pyromancer
+	6 CR06 Peerless Samurai
+	6 CR03 Convention Gremlins
+	6 CR08 Living Lightning
+	6 CR09 Wrecking Crew
+	6 CR10 Boarding Party
+	6 CR11 Magma Jet
+	6 CR12 Implosion
+	6 CR13 Thread of Fate
+	6 CR14 Violent Impact
+	6 CR15 Blazing Crescendo
+	6 CR16 Lightning Spear
+	6 CR17 Invasion Day
+	6 CR18 Seeing Red
+	6 CR19 Thought Rip
+	6 CG01 Cell-Souled Neonate
+	6 CG02 Stone Tender
+	6 CG03 Backstreet Thugs
+	6 CG04 B.E.A.S.T. Mercenary
+	6 CG05 Biotank Supervisor
+	6 CG06 Cell-Souled Nodal
+	6 CG07 Mutagenic Mass
+	6 CG09 Cell-Souled Divine
+	6 CG08 B.E.A.S.T. Officer
+	6 CG10 Time Lost Primitive
+	15 UG04 Endoparasitoid Xeno
+	6 CG12 Mainstreet Bout
+	6 CG13 Colossal Growth
+	6 CG14 Luxurious Libation
+	6 CG15 Reclaim Biomass
+	6 CG16 Tengri's Soul Bow
+	6 CG17 Bird Meet Plane
+	6 CG18 Grafted Growth
+	6 CG19 Quiet Disrepair
+	15 UW01 Steadfast Citizen
+	15 UW02 Statuesque
+	15 UW03 Resistance Squad
+	15 UW04 Attorney-at-law
+	15 UW05 B.E.A.S.T. Scout
+	15 UW06 Automated Warden
+	15 UW07 General Steele
+	15 UW08 Rise
+	15 UW09 CANN Cell
+	15 UW10 Assemble the Institute
+	15 UW11 Servo Exhibition
+	15 UU01 Psychic Channeler
+	15 UU02 Daring Saboteur
+	15 UU04 Spy Drone
+	15 UM01 The Man of the House
+	15 UU06 Portaltrix
+	15 UU07 Solid Figment
+	15 UU08 Scrutinize
+	15 UU09 Delay
+	15 UU10 Voyage Through Time
+	15 UU11 Thoughtform
+	15 UB01 Nanobot Swarm
+	15 UB02 Cell-Souled Expendable
+	15 UB03 Balloonatic
+	15 UB04 Cell-Souled Endurer
+	15 UB07 Lingering Phantom
+	15 UB06 Geiger
+	15 UB05 Loyal Second
+	15 UB08 Hero's Downfall
+	15 UB09 We Can Rebuild Him
+	15 UB10 Arlan'ah Invasion
+	15 UB11 Shadows of the Past
+	15 UR01 Reinforced Ronin
+	15 UR02 Big League
+	15 UR03 Stage Magician
+	15 UR04 Kinetic Augur
+	15 UR05 Space Racer
+	15 UR06 Mister Monster
+	15 UR07 ERF Recruiter
+	15 UR08 Breach and Clear
+	15 UR09 Volcanic Fallout
+	15 UR10 Pertinacities' Sacrifice
+	15 UR11 Returning Memories
+	15 UG01 Green Thumb
+	15 UG02 Rostered Terrakinetic
+	15 UG03 Cell-Souled Biomancer
+	15 UG05 Cell-Souled Titan
+	15 UG06 Living Liberty
+	15 UG07 Captain Trench
+	15 UG08 Berserk
+	15 UG09 Regrow from Disaster
+	15 UG10 Morgain Declares War
+	15 UG11 Biogenic Upgrade
+	7 RW01 Solar Sentinel
+	7 RX05 Warskeleton
+	7 RW03 Harmony
+	7 RW04 Arthur
+	7 RW05 Single Combat
+	7 RW06 Prepare for Battle
+	7 RW07 Invoke Justice
+	7 RU01 Sally Saturn
+	7 RU02 Quatermaster
+	7 RU03 Dr. Friendly
+	7 RU04 Wetwork
+	7 RU05 Lair Defence
+	7 RU06 Treachery
+	7 RU07 Multiversal Tear
+	7 RB02 Hydroxis
+	7 RB01 Null
+	7 RB03 Korkulo, Heartstopper
+	7 RB04 Mordred, Returned
+	7 RB05 Hero's Demise
+	7 RB06 Secret Wormhole
+	7 RB07 Collector's Bargain
+	7 RR01 Crash
+	4 MR01 Thunderbird
+	7 RR03 Prince Ares
+	7 RR04 Miss Atomic Bomb
+	7 RR05 Relentless Assault
+	7 RR06 Electrodominance
+	7 RR07 Mechanized Warfare
+	7 RG01 The Valkyrie
+	7 RG02 Polymer Man
+	7 RG03 Pertinacity
+	7 RG04 Bootleg
+	7 RG05 Olympus Project
+	7 RG06 Fight Rigging
+	7 RG07 Heroic Intervention
+	4 MW01 TV Head, Legacy
+	4 MW02 Honjo Masamune
+	4 MU01 Father Time
+	4 MU02 Tune, Song of Reality
+	4 MB01 Nkosi Uthuli, God of Dust
+	4 MB02 Aakash Nadar, MegaSol CEO
+	7 RR02 Novalain, Novaco CEO
+	4 MR02 Final Fortune
+	4 MG01 Nkosi Imvelo, God of Nature
+	4 MG02 Doubling Season
+	15 UM01 Ricky Rocket, Philanthropist
+	15 UU05 The Mollusk
+	15 UM01 Belphegor
+	15 UM01 Hopalong Holden
+	15 UM01 Wildspirit
+	15 UM01 Danielle Moore, Liason
+	15 UM01 Violet Star
+	15 UM01 Cell-Souled Advisor
+	15 UM01 Victor Tinkor
+	15 UM01 The Wilderness Stalker
+	7 RM01 Velocity Mass
+	7 RM01 Cybershot
+	7 RM01 Motts'ah, Invader
+	7 RM01 GAIA, Helpful Assistant
+	7 RM01 Wondermind
+	7 RM01 Overdriver
+	7 RM01 Duplex
+	6 CA01 Firestarter Drone
+	6 CA02 Rampant Assembler
+	6 CA03 Supression Bot
+	6 CA04 Chromatic Star
+	6 CA05 Makeshift Jetpack
+	15 UA01 Watchers of the Dead
+	15 UA02 Slipdrive UFO
+	15 UA03 Clone Shell
+	15 UA04 Introduction to Annihilation
+	15 UA05 Chromatic Rig
+	7 RL01 Bayside City
+	15 UL01 Cleanup Zone
+	15 UL03 Secret Laboratory
+	15 UL04 Dusty Highway
+	15 UL05 City Docks
+	15 UX01 Bank Robbery
+	15 UX02 Twist of Luck
+	15 UX03 Urban Evolution
+	15 UX04 Plea for Help
+	15 UX05 Back for More
+	7 RX01 Chromatic Lantern
+	7 RX02 Sea King's Sub-Fortress
+	7 RX03 Iconic Blades
+	7 RX04 Mirror Box
+	7 RW02 Digi-Lord
+	7 RX06 Duplicant
+	7 RX07 Ion
+	7 RX08 Assemble the Chroma
+	4 MX01 Ultimate Paragon
+	4 MX02 Chromatic Orrery
+	4 MX03 SW Satalite System
+	4 MX04 Heroes' Podium
+	4 MX05 Rapid Response Jet
+	7 RM01 Vel, Cell-Souled Chiliarch
+	15 UL02 Heroes' Memorial
+	6 CA06 Institute Shuttle
+	7 RM01 Just As Steve
+	7 RM01 Vitae, Agent Hera
+	15 UU03 Rostered Hydrokinetic
+	6 CL01 Warehouse District
+	15 UA06 Morgain Magi-Tank
+	6 CG11 Towering Gibbon
+	6 CA07 Modded Colossus
+	6 CR20 Junkyard Mech
+	6 CW20 Interplanetary Rover
+	6 CL02 Dimensional Crack
